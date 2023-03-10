@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 - 👋🏾 🚲 🏃🏂🏽🥌🍺 git hub is connecting people
-- 🏾 🚲 🏃🏂🏽🥌🍺 Cuan Masuk Rp. 150.099.7500.0000,00
 
 <!---
 kongali1720/kongali1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
