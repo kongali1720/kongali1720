@@ -2,7 +2,7 @@
 - 👀 I’m interested in Social Engineering and Ethical Hacking
 - 🌱 I’m currently learning UBUNTU, Kali-Linux, PHP, Python and Super exploitation as well
 - 💞️ I’m looking to collaborate on ...
-- 📫 Rp, 20.000.000.000,00
+- 📫 
 - 👋🏾 🚲 🏃🏂🏽🥌🍺 git hub is connecting people
 
 <!---
