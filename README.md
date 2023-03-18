@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kongali1720
 - 👀 I’m interested in Social Engineering and Ethical Hacking
-- 🌱 I’m currently learning UBUNTU, Kali-Linux, PHP, Python and Super exploitation as well
+- 🌱 I’m currently learning UBUNTU, DEBIAN, Kali-Linux, PHP, Python and Super exploitation as well
 - 💞️ I’m looking to collaborate on ...
-- 📫 
 - 👋🏾 🚲 🏃🏂🏽🥌🍺 git hub is connecting people
 
 <!---
