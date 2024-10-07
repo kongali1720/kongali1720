@@ -1,18 +1,24 @@
 - 👋 Hi, Hello ..... Good Greetings of the day <<<< I’m kongali1720 >>>> 
 - 👀 I’m interested in Social Engineering and Ethical Hacking Programme
-- 🌱 I’m currently learning on UBUNTU, DEBIAN, JS, Kali-Linux, PHP, Python Scrypt
+- 🌱 I’m currently learning on UBUNTU, DEBIAN, JS, Kali-Linux, PHP, Python Scrypt forever 
 - 💞️ I’m looking to collaborate on ... 64148b08f28ca.site.me
 - 🍺 Sudo apt-get install Haineken-Erdinger-Robusta-VanilaLatte '{MyFavoriteDrinks}'
 - 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet
-- 🥌>>>save our planet with love n peace >> no war >> no racism 
+<!--- 🥌>>>save our planet with love n peace >> no war >> no racism >> no drugs >> no terrorism >> no smoking no entry 🌱
 
 <!---
-kongali1720/kongali1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience of more than ✨23 years✨ in IT dealing with wide range of applications and platforms, experience within multi-tier environments configuration, implementation, solution architect and teams leading roles. Delivered/ deployed mission critical applications/ solutions for world-wide customers on high availability productions environment’s application layer. Introduced/ implemented number of change control process, configuration management policies/ documents within project life cycle.
+
+---> ✨Expertise✨: 
+
+✨ Worked in SAP HCM Module Product Development ✨ System Analysis and Design ✨ Business Design in Enterprise Resource Planning ✨ Skillset ✨Analytic Skills ✨UML ✨Data Modeling ✨Eclipse Modeling Framework ✨Technical Skills ✨Front-end ✨Back-end ✨HTML / CSS ✨Typescript, AngularJS, JQuery ✨Twitter Bootstrap, ZURB Foundation, Semantic UI ✨Spring Framework, ASP.NET MVC/ Web API ✨ NodeJS, ExpressJS, SocketIO ✨ORM ✨Entity Framework, ✨ibernate ✨Task Runner ✨GruntJS✨Template Engine ✨Jade ✨Other✨ C++, C#, Java, XML, XSLT, SQL, JavaScript ✨Data ware house ✨MSSQL, Oracle, Elastic Search ✨Version Controls ✨Git ✨SVN (Subeclipse) ✨Software ✨evelopment Methodology ✨Scrum ✨Agile Project Management Tools ✨Atlassian JIRA, VersionOne 
+
+<!--- kongali1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 ---> Why do you care?
 
-A good setup should quickly establish our hero’s origins and affinities and create an authentic frame that will support the rest of the story:
+<!--- A good setup should quickly establish our hero’s origins and affinities and create an authentic frame that will support the rest of the story:
 Think back to your past, all the way to your childhood. Who were your heroes?
 What did you enjoy doing? What were your passions, talents, and interests
 When did you first think: “I’m going to be a software developer”?
@@ -21,7 +27,7 @@ What turning points in your life stand out?
 
 ---> What are your strengths?
 
-Think about the problems that only you can solve.
+<!--- Think about the problems that only you can solve.
 On what do teachers, teammates, or friends usually compliment you?
 Remember that we tend to underestimate or minimize our strengths. The Reflected Best-Self Exercise (Roberts et al., 2005), created at the University of Michigan, helps you mitigate this. In essence, you ask 15–20 people close to you to write stories about you at your best, then analyze the feedback for strengths, weaknesses, enablers, and blockers. More on that here.
 
