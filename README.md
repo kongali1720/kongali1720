@@ -1,6 +1,6 @@
 - 👋 Hi, Hello ..... Good Greetings of the day <<<< I’m kongali1720 >>>> 
 - 👀 I’m interested in Social Engineering and Ethical Hacking Programme
-- 🌱 I’m currently learning on UBUNTU, DEBIAN, JS, Kali-Linux, PHP, Python Scrypt forever 
+- 🌱 I love JSON, Linux-based, PHP, Python, bash, clang and MySql 
 - 💞️ I’m looking to collaborate on ... 64148b08f28ca.site.me
 - 🍺 Sudo apt-get install Haineken-Erdinger-Robusta-VanilaLatte '{MyFavoriteDrinks}'
 - 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet
