@@ -47,4 +47,4 @@ This is where, driven by ambition and passion, the hero sets about trying to res
 ---> What praises did you get?
 
 Don’t recite your job history, unless the names of the companies in your past are internationally recognized and appreciated. Instead, focus on the industries you’ve developed solutions for, the skills you’ve mastered, and the most formidable obstacles you’ve knocked down.
-What valuable insights/strengths/skills have you gained along the way? What loot has our hero picked up?
+What valuable insights/strengths/skills have you gained along the way?
