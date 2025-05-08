@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 64148b08f28ca.site.me
 - 🍺 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
 - 🍺 -Cappucino & Robusta-VanilaLatte '{MyFavoriteDrinks}'
-- 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet
+- 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet - Explore, Build, and Break the Walls of the Internet
 <!--- 🥌>>>save our planet with love n peace >> no war >> no racism >> no drugs >> no terrorism >> no smoking no entry 🌱
 
 <!---
