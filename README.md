@@ -2,7 +2,8 @@
 - 👀 I’m interested in Social Engineering and Ethical Hacking Programme
 - 🌱 I love JSON, Linux-based, PHP, Python, bash, clang and MySql 
 - 💞️ I’m looking to collaborate on ... 64148b08f28ca.site.me
-- 🍺 Sudo apt-get install Haineken-Erdinger-Robusta-VanilaLatte '{MyFavoriteDrinks}'
+- 🍺 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
+- 🍺 -Cappucino & Robusta-VanilaLatte '{MyFavoriteDrinks}'
 - 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet
 <!--- 🥌>>>save our planet with love n peace >> no war >> no racism >> no drugs >> no terrorism >> no smoking no entry 🌱
 
