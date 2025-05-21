@@ -1,10 +1,10 @@
-# 👑 Kongali1720 — Si Tukang Inject Berhati Lembut Dunia Maya 🌐⚡
+# 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat Dunk 🌐⚡
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Dewa%20Centil%20🌈&descAlign=center&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Hacker%20Syariah%20🌈&descAlign=center&descSize=16)
 
 ## 🤖 Who Am I?
 
-Haii duniaaa~ aku **Kongali1720**, si hacker centil dengan otak penuh kode dan hati penuh kopi.  
+Haii duniaaa~ aku **Kongali1720**, si hacker syariah dengan otak penuh kode dan hati penuh kopi.  
 Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
 💡 Julukan Kodeku
@@ -80,7 +80,7 @@ Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi
 
 ---
 
-## ☕ Traktir Si Dewa Centil
+## ☕ Traktir Hukumnya Harus ya GUYSSS!!!
 
 > Dukung aku agar tetap waras menulis script tengah malam...
 
