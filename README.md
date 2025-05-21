@@ -60,7 +60,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ---
 
-## ⚒️ Skill de la Centil
+## ⚒️ Skill de la Brutal
 
 - 💀 Ethical Hacking, Social Engineering, Reconnaissance  
 - 🧠 Coding Addict: Python, PHP, Bash, SQL, Clang, JavaScript  
@@ -120,6 +120,21 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 - 💌 Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
 - 🕵️‍♂️ Site: Coming soon — stay curious...
 
+---
+💻 INITIATING HUMANITY MODE...
+> Target Locked: Anak-anak Pejuang Down Syndrome
+> Status: Butuh Dukungan
+> Response: Buka Hati + Klik Link = Satu Senyum Baru
+
+🧬 Mereka bukan berbeda, mereka hanya dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.
+
+👣 Setiap langkah kecil mereka = Keajaiban besar.
+
+⚡ Bantu mereka melangkah lebih jauh, dengan caramu sendiri.
+
+<p align="center"> <a href="https://mydonation4ds.github.io/" target="_blank"> <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" /> </a> </p>
+
+    "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." 🖤
 ---
 
 > "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
