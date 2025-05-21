@@ -79,11 +79,10 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ## ðŸ“ˆ GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kongali1720&label=Total+Pengunjung&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visitors-200+-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Pengunjung-4000-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visitors-4000+-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grade-A-brightgreen?style=for-the-badge" />
 </p>
-
 
 ---
 
