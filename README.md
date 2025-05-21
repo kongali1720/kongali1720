@@ -51,7 +51,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 🌀 Voidwalker of the Shell  
 🩸 Shadow of Root  
 🦄 Cyber Centaur  
-🔮 Dukun Digital  
+🔮 Pawang Digital  
 🥷 Ngoding Ninja  
 🎧 The Bash Whisperer  
 🤠 KodeRanger  
