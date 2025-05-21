@@ -1,3 +1,4 @@
+
 # 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat Dunk 🌐⚡
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Hacker%20Syariah%20🌈&descAlign=center&descSize=16)
@@ -5,35 +6,55 @@
 ## 🤖 Who Am I?
 
 Haii duniaaa~ aku **Kongali1720**, si hacker syariah dengan otak penuh kode dan hati penuh kopi.  
-Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
+Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
-💡 Julukan Kodeku
-===============================
-🛠️ Arsitek Dunia Maya
-🪲 Penjinak Bug
-🧙‍♂️ Master Kode Siluman
-📟 The Terminal Prophet👑 Raja Debugging dari Selatan
-😎 Hacker Tapi Santai
-☕ Ngoding Sambil Ngopi
-🧙‍♀️ Pawang Stack Overflow
-💉 Si Tukang Inject Berhati Lembut
-⚗️ Cyber Alkemis
-🧠 Neural Scripter
-🚀 Quantum Coder
-🧳 Syntax Nomad
-🧬 Node Invoker
-📡 Echo Messiah
-🌑 Bayangan Kompilasi
-🚫 404 Identity Not Found
-🕵️‍♂️ Silent Packet Sniffer
-🌀 Voidwalker of the Shell
-🩸 Shadow of Root
-🦄 Cyber Centaur
-🔮 Dukun Digital
-🥷 Ngoding Ninja
-🎧 The Bash Whisperer
-🤠 KodeRanger
-===============================
+---
+
+## 🚀 Projects in the Lab
+
+- 🔁 MT103 ➡️ Crypto Transaction Converter  
+- 🛡️ SQL Injection Playground for training  
+- 🕸️ Web portals with login bypass challenges (pentest simulation)  
+- 🏁 Personal Cyber Portal — soon to be launched  
+
+---
+
+## 🏅 Prestige dan Sejarah
+
+✨ Pernah berkecimpung di dunia **SAP HCM Development**  
+✨ Terjun ke dunia ERP, modeling, dan analisis sistem  
+✨ Sering ngoprek HTML/CSS, backend, ORM, dan ngebut di Terminal  
+✨ Nggak takut bug, malah cari bug buat disayang 🐞💕
+
+---
+
+## 💡 Julukan sesuai order yang dikerjakan
+
+🛠️ Arsitek Dunia Maya  
+🪲 Penjinak Bug  
+🧙‍♂️ Master Kode Siluman  
+📟 The Terminal Prophet  
+👑 Raja Debugging dari Selatan  
+😎 Hacker Tapi Santai  
+☕ Ngoding Sambil Ngopi  
+🧙‍♀️ Pawang Stack Overflow  
+💉 Si Tukang Inject Berhati Lembut  
+⚗️ Cyber Alkemis  
+🧠 Neural Scripter  
+🚀 Quantum Coder  
+🧳 Syntax Nomad  
+🧬 Node Invoker  
+📡 Echo Messiah  
+🌑 Bayangan Kompilasi  
+🚫 404 Identity Not Found  
+🕵️‍♂️ Silent Packet Sniffer  
+🌀 Voidwalker of the Shell  
+🩸 Shadow of Root  
+🦄 Cyber Centaur  
+🔮 Dukun Digital  
+🥷 Ngoding Ninja  
+🎧 The Bash Whisperer  
+🤠 KodeRanger  
 
 > "I hack with ❤️, and patch with 🍰."
 
@@ -41,11 +62,11 @@ Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi
 
 ## ⚒️ Skill de la Centil
 
-- 💀 Ethical Hacking, Social Engineering, Reconnaissance
-- 🧠 Coding Addict: Python, PHP, Bash, SQL, Clang, JavaScript
-- 💻 Full-stack Magic: Flask, Bootstrap, Express.js, Angular, Spring
-- 🔐 Pentest Tools: sqlmap, nmap, Burp Suite, metasploit, wireshark
-- 🔄 Automation & Parsing: Linux + JSON + BeautifulSoup + Shell seduction
+- 💀 Ethical Hacking, Social Engineering, Reconnaissance  
+- 🧠 Coding Addict: Python, PHP, Bash, SQL, Clang, JavaScript  
+- 💻 Full-stack Magic: Flask, Bootstrap, Express.js, Angular, Spring  
+- 🔐 Pentest Tools: sqlmap, nmap, Burp Suite, Metasploit, Wireshark  
+- 🔄 Automation & Parsing: Linux + JSON + BeautifulSoup + Shell seduction  
 
 ```bash
 🧃 I like:    JSON, Linux, MySQL, WebSocket, Terminal
@@ -55,28 +76,23 @@ Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi
 
 ---
 
-## 🚀 Projects in the Lab
-
-- 🔁 MT103 ➡️ Crypto Transaction Converter
-- 🛡️ SQL Injection Playground for training
-- 🕸️ Web portals with login bypass challenges (pentest simulation)
-- 🏁 Personal Cyber Portal — soon to be launched
-
----
-
-## 🏅 Prestige dan Sejarah
-
-✨ Pernah main di dunia **SAP HCM Development**  
-✨ Terjun bebas di dunia ERP, modeling, and system analysis  
-✨ Sering ngoprek HTML/CSS, backend, ORM dan ngebut di Terminal  
-✨ Nggak takut bug, malah cari bug buat disayang 🐞💕  
-
----
-
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=radical&hide_border=false&langs_count=10" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongali1720&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kongali1720&label=Total+Pengunjung&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Ngoding%20Dewa-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Suka%20Ngopi-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-404%20Not%20Your%20Average%20Coder-black?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -98,5 +114,3 @@ Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi
 ---
 
 > "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
-
----
