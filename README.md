@@ -79,20 +79,11 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ## ðŸ“ˆ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=radical&hide_border=false&langs_count=10" width="48%"/>
+  <img src="https://komarev.com/ghpvc/?username=kongali1720&label=Total+Pengunjung&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visitors-200+-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grade-A-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongali1720&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kongali1720&label=Total+Pengunjung&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Ngoding%20Dewa-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Suka%20Ngopi-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-404%20Not%20Your%20Average%20Coder-black?style=for-the-badge"/>
-</p>
 
 ---
 
