@@ -1,51 +1,74 @@
-- 👋 Hi, Hello ..... Good Greetings of the day <<<< I’m kongali1720 >>>> 
-- 👀 I’m interested in Social Engineering and Ethical Hacking Programme
-- 🌱 I love JSON, Linux-based, PHP, Python, bash, clang and MySql 
-- 💞️ I’m looking to collaborate on ... 64148b08f28ca.site.me
-- 🍺 - **PayPal**: [Buy Me a Coffee](https://www.paypal.me/bungtempong99) 
-- 🍺 -Cappucino & Robusta-VanilaLatte '{MyFavoriteDrinks}'
-- 👋🏾 🚲 🏃🏂🏽🥌 //github.com is connecting people on this planet - Explore, Build, and Break the Walls of the Internet
-<!--- 🥌>>>save our planet with love n peace >> no war >> no racism >> no drugs >> no terrorism >> no smoking no entry 🌱
+# 👑 Kongali1720 — Dewa Centil Dunia Maya 🌐⚡
 
-<!---
-Experience of more than ✨23 years✨ in IT dealing with wide range of applications and platforms, experience within multi-tier environments configuration, implementation, solution architect and teams leading roles. Delivered/ deployed mission critical applications/ solutions for world-wide customers on high availability productions environment’s application layer. Introduced/ implemented number of change control process, configuration management policies/ documents within project life cycle.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Dewa%20Centil%20🌈&descAlign=center&descSize=16)
 
----> ✨Expertise✨: 
+## 🤖 Who Am I?
 
-✨ Worked in SAP HCM Module Product Development ✨ System Analysis and Design ✨ Business Design in Enterprise Resource Planning ✨ Skillset ✨Analytic Skills ✨UML ✨Data Modeling ✨Eclipse Modeling Framework ✨Technical Skills ✨Front-end ✨Back-end ✨HTML / CSS ✨Typescript, AngularJS, JQuery ✨Twitter Bootstrap, ZURB Foundation, Semantic UI ✨Spring Framework, ASP.NET MVC/ Web API ✨ NodeJS, ExpressJS, SocketIO ✨ORM ✨Entity Framework, ✨ibernate ✨Task Runner ✨GruntJS✨Template Engine ✨Jade ✨Other✨ C++, C#, Java, XML, XSLT, SQL, JavaScript ✨Data ware house ✨MSSQL, Oracle, Elastic Search ✨Version Controls ✨Git ✨SVN (Subeclipse) ✨Software ✨evelopment Methodology ✨Scrum ✨Agile Project Management Tools ✨Atlassian JIRA, VersionOne 
+Haii duniaaa~ aku **Kongali1720**, si hacker centil dengan otak penuh kode dan hati penuh kopi.  
+Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
-<!--- kongali1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+> "I hack with ❤️, and patch with 🍰."
 
----> Why do you care?
+---
 
-<!--- A good setup should quickly establish our hero’s origins and affinities and create an authentic frame that will support the rest of the story:
-Think back to your past, all the way to your childhood. Who were your heroes?
-What did you enjoy doing? What were your passions, talents, and interests
-When did you first think: “I’m going to be a software developer”?
-Is there any moment in your past you would like to relive?
-What turning points in your life stand out?
+## ⚒️ Skill de la Centil
 
----> What are your strengths?
+- 💀 Ethical Hacking, Social Engineering, Reconnaissance
+- 🧠 Coding Addict: Python, PHP, Bash, SQL, Clang, JavaScript
+- 💻 Full-stack Magic: Flask, Bootstrap, Express.js, Angular, Spring
+- 🔐 Pentest Tools: sqlmap, nmap, Burp Suite, metasploit, wireshark
+- 🔄 Automation & Parsing: Linux + JSON + BeautifulSoup + Shell seduction
 
-<!--- Think about the problems that only you can solve.
-On what do teachers, teammates, or friends usually compliment you?
-Remember that we tend to underestimate or minimize our strengths. The Reflected Best-Self Exercise (Roberts et al., 2005), created at the University of Michigan, helps you mitigate this. In essence, you ask 15–20 people close to you to write stories about you at your best, then analyze the feedback for strengths, weaknesses, enablers, and blockers. More on that here.
+```bash
+🧃 I like:    JSON, Linux, MySQL, WebSocket, Terminal
+👠 I love:    Clang, Python3, Bash-scripting, and dark themes
+🥤 My drink:  Cappuccino + Robusta Vanilla Latte
+```
 
----> Act two: Where our hero grows and changes in response to conflicts and circumstances.
+---
 
----> What did you do?
+## 🚀 Projects in the Lab
 
-This is where, driven by ambition and passion, the hero sets about trying to resolve some big problems, encounters all sorts of adversity that he manages to overcome, and learns some valuable lessons.
+- 🔁 MT103 ➡️ Crypto Transaction Converter
+- 🛡️ SQL Injection Playground for training
+- 🕸️ Web portals with login bypass challenges (pentest simulation)
+- 🏁 Personal Cyber Portal — soon to be launched
 
-    ---> Recall the significant professional choices you have made (majors, internships, certifications)?
-    ---> Why did you make those choices? How did they play into your bigger plan?
-    ---> What languages and what technologies have you been close to over the years?
-    ---> What are the biggest challenges you’ve overcome in developing your coding craft?
-    ---> What sort of projects have you completed? Communication or financial apps, ad-hoc plugins, e-commerce platforms? What’s your specialty? What industries do you know?
-    ---> Think hard about your accomplishments. What effort made you most proud of yourself? Something that few of your peers have achieved in their work?
-    
----> What praises did you get?
+---
 
-Don’t recite your job history, unless the names of the companies in your past are internationally recognized and appreciated. Instead, focus on the industries you’ve developed solutions for, the skills you’ve mastered, and the most formidable obstacles you’ve knocked down.
-What valuable insights/strengths/skills have you gained along the way?
+## 🏅 Prestige dan Sejarah
+
+✨ Pernah main di dunia **SAP HCM Development**  
+✨ Terjun bebas di dunia ERP, modeling, and system analysis  
+✨ Sering ngoprek HTML/CSS, backend, ORM dan ngebut di Terminal  
+✨ Nggak takut bug, malah cari bug buat disayang 🐞💕  
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=tokyonight)
+
+---
+
+## ☕ Traktir Si Dewa Centil
+
+> Dukung aku agar tetap waras menulis script tengah malam...
+
+👉 [**Buy Me a Coffee via PayPal**](https://www.paypal.com/paypalme/bungtempong99) 👈  
+*Support with 💸 so I can buy ☕ and keep being 🔥!*
+
+---
+
+## 📫 Let’s Connect Like Hackers
+
+- 🧙 GitHub: [kongali1720](https://github.com/kongali1720)
+- 💌 Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
+- 🕵️‍♂️ Site: Coming soon — stay curious...
+
+---
+
+> "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
+
+---
