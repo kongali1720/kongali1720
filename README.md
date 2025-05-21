@@ -95,17 +95,12 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 </p>
 
 <p align="center">
-  <!-- Most Used Languages Visual Dummy -->
   <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-15%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- Dummy Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/kongali1720/kongali1720/main/contribution-graph-dummy.png" alt="Contribution Graph Dummy" width="600"/>
-</p>
 
 
 ---
