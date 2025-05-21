@@ -1,4 +1,4 @@
-# 👑 Kongali1720 — Dewa Centil Dunia Maya 🌐⚡
+# 👑 Kongali1720 — Si Tukang Inject Berhati Lembut Dunia Maya 🌐⚡
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Dewa%20Centil%20🌈&descAlign=center&descSize=16)
 
@@ -6,6 +6,34 @@
 
 Haii duniaaa~ aku **Kongali1720**, si hacker centil dengan otak penuh kode dan hati penuh kopi.  
 Pagi ngoding, siang ngetes sistem, malam ngedekompile... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
+
+💡 Julukan Kodeku
+===============================
+🛠️ Arsitek Dunia Maya
+🪲 Penjinak Bug
+🧙‍♂️ Master Kode Siluman
+📟 The Terminal Prophet👑 Raja Debugging dari Selatan
+😎 Hacker Tapi Santai
+☕ Ngoding Sambil Ngopi
+🧙‍♀️ Pawang Stack Overflow
+💉 Si Tukang Inject Berhati Lembut
+⚗️ Cyber Alkemis
+🧠 Neural Scripter
+🚀 Quantum Coder
+🧳 Syntax Nomad
+🧬 Node Invoker
+📡 Echo Messiah
+🌑 Bayangan Kompilasi
+🚫 404 Identity Not Found
+🕵️‍♂️ Silent Packet Sniffer
+🌀 Voidwalker of the Shell
+🩸 Shadow of Root
+🦄 Cyber Centaur
+🔮 Dukun Digital
+🥷 Ngoding Ninja
+🎧 The Bash Whisperer
+🤠 KodeRanger
+===============================
 
 > "I hack with ❤️, and patch with 🍰."
 
