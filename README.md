@@ -79,10 +79,34 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ## ðŸ“ˆ GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Pengunjung-4000-blueviolet?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=false" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=radical&hide_border=false&langs_count=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongali1720&theme=react-dark&hide_border=true" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kongali1720&label=Total+Pengunjung&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Visitors-4000+-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grade-A-brightgreen?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <!-- Most Used Languages Visual Dummy -->
+  <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-15%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Dummy Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/kongali1720/kongali1720/main/contribution-graph-dummy.png" alt="Contribution Graph Dummy" width="600"/>
+</p>
+
 
 ---
 
