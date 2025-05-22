@@ -5,7 +5,7 @@
 
 ## 🤖 Who Am I?
 
-Haii duniaaa~ aku **Kongali1720**, si hacker syariah dengan otak penuh kode dan hati penuh kopi.  
+Haii duniaaa~ aku **Kongali1720**, IT Developer dengan otak ngebul ama koding dan hati penuh kopi.  
 Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
 ---
