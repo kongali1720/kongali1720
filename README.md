@@ -1,7 +1,7 @@
 
 # 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat Dunk 🌐⚡
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20Hacker%20Syariah%20🌈&descAlign=center&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20IT%20Programmer%20🌈&descAlign=center&descSize=16)
 
 ## 🤖 Who Am I?
 
