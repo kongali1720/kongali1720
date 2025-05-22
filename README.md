@@ -134,7 +134,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 <p align="center"> <a href="https://mydonation4ds.github.io/" target="_blank"> <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" /> </a> </p>
 
-    "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." 🖤
+    "Karena jadi IT Programing bukan cuma soal jago ngoding... tapi juga soal peduli." 🖤
 ---
 
 > "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
