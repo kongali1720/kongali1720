@@ -5,7 +5,7 @@
 
 ## 🤖 Who Am I?
 
-Haii duniaaa~ aku **Kongali1720**, IT Developer dengan otak ngebul ama koding dan hati penuh kopi.  
+Hello World! ~ aku **Kongali1720**, IT Developer dengan otak ngebul ama scripting and coding tapi hati penuh kopi.  
 Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
 ---
@@ -134,7 +134,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 <p align="center"> <a href="https://mydonation4ds.github.io/" target="_blank"> <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" /> </a> </p>
 
-    "Karena jadi IT Programing bukan cuma soal jago ngoding... tapi juga soal peduli." 🖤
+    "Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi juga soal peduli cuy." 🖤
 ---
 
 > "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
