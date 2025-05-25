@@ -98,7 +98,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=echo+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=pip+install+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
 </p>
 
 ---
@@ -198,8 +198,6 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
   <img src="https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-
 ---
 
 ## ☕ Traktir Hukumnya Harus ya GUYSSS!!!
@@ -251,15 +249,63 @@ Click the link. Spread the word. Stand beside them.
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-<table>
-  <tr>
-    <td width="70%" valign="middle">
-      Maarten Paes, the goalkeeper for Indonesia national team in 2024.
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Maarten_Paes_2024.png" alt="Maarten Paes" width="150" />
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Support Indonesia Towards the World Cup!</title>
+  <style>
+    /* Center all content using Flexbox */
+    body {
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: #f9f9f9;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 30px;
+      animation: glow 1.5s ease-in-out infinite alternate;
+    }
+
+    .gif-box img {
+      width: 180px;
+      height: 180px;
+      border: 3px solid #ff3366;
+      border-radius: 12px;
+      box-shadow: 0 0 20px #ffcc00;
+    }
+
+    @keyframes glow {
+      from {
+        color: #e60000;
+        text-shadow: 0 0 10px #ff9999;
+      }
+      to {
+        color: #0033cc;
+        text-shadow: 0 0 20px #9999ff;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Support Indonesia Towards the World Cup 2026! 🇮🇩⚽</h1>
+
+  <div class="gif-box">
+    <img
+      src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif"
+      alt="Support Indonesia"
+    />
+  </div>
+</body>
+</html>
+
 
 
