@@ -249,63 +249,23 @@ Click the link. Spread the word. Stand beside them.
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Support Indonesia Towards the World Cup!</title>
-  <style>
-    /* Center all content using Flexbox */
-    body {
-      height: 100vh;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      background-color: #f9f9f9;
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
 
-    h1 {
-      font-size: 2.5em;
-      margin-bottom: 30px;
-      animation: glow 1.5s ease-in-out infinite alternate;
-    }
+<body style="margin:0; height:100vh; display:flex; flex-direction:column; justify-content:center; align-items:center; background:#f9f9f9; font-family:sans-serif; text-align:center;">
 
-    .gif-box img {
-      width: 180px;
-      height: 180px;
-      border: 3px solid #ff3366;
-      border-radius: 12px;
-      box-shadow: 0 0 20px #ffcc00;
-    }
+  <h1 style="font-size: 2em; margin-bottom: 30px; animation: glow 1.5s ease-in-out infinite alternate;">
+    🇮🇩🇮🇩 Support INDONESIA Toward WORLD CUP 2026! ⚽⚽
+  </h1>
 
-    @keyframes glow {
-      from {
-        color: #e60000;
-        text-shadow: 0 0 10px #ff9999;
-      }
-      to {
-        color: #0033cc;
-        text-shadow: 0 0 20px #9999ff;
-      }
-    }
-  </style>
-</head>
-<body>
-  <h1>Support Indonesia Towards the World Cup 2026! 🇮🇩⚽</h1>
-
-  <div class="gif-box">
-    <img
-      src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif"
-      alt="Support Indonesia"
-    />
+  <div style="display: flex; gap: 20px;">
+    <img src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif" width="120" height="120" alt="Support Indonesia" style="border: 3px solid #ff3366; border-radius: 12px; box-shadow: 0 0 15px #ffcc00;">
+    <img src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif" width="120" height="120" alt="Support Indonesia" style="border: 3px solid #ff3366; border-radius: 12px; box-shadow: 0 0 15px #ffcc00;">
   </div>
 </body>
-</html>
+
+
+
+
+
 
 
 
