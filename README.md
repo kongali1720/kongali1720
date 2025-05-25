@@ -267,4 +267,3 @@ Let's support Indonesia on their journey to the World Cup 2026! This page featur
 </td>
   </tr>
 </table>
-
