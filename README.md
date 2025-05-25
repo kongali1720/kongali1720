@@ -11,9 +11,19 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5vY2V0dGJvY3BqY2V6Z2Z1Z2R6Y2J6eHF4Y2NqZzZ1ZzZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFvHvpzyElYQ/giphy.gif" width="400px">
+  <!-- GIF Bendera Merah Putih Bergerak -->
+  <img src="https://i.gifer.com/7I7x.gif" width="400px" alt="Bendera Indonesia Bergerak">
+  
+  <!-- Garuda Pancasila -->
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Garuda_Pancasila.svg/1200px-Garuda_Pancasila.svg.png" width="100px">
+  <img src="https://www.pngall.com/wp-content/uploads/5/Garuda-Pancasila-PNG-HD-Image.png" width="150px" alt="Garuda Pancasila">
+  
+  <!-- Teks Animasi Merah Putih -->
+  <h3> 
+    <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="20"> 
+    <b>KONGALI1720 - I LOVE INDONESIA!</b> 
+    <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="20">
+  </h3>
 </div>
 
 ---
