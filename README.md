@@ -31,12 +31,24 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 </p>
 
 ---
-██╗  ██╗ ██████╗ ███╗   ██╗ ██████╗   █████╗ ██╗       ██╗
-██║ ██╔╝██╔═══██╗████╗  ██║██╔════╝  ██╔══██╗██║       ██║
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0012.gif" width="80" />
+</p>
+
+<pre align="center">
+██╗  ██╗ ██████╗ ███╗   ██╗ ██████╗   █████╗ ██╗        ██╗
+██║ ██╔╝██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗██║       ██║
 █████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗ ███████║██║       ██║
 ██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║ ██╔══██║██║       ██║
 ██║  ██╗╚██████╔╝██║  ╚████║╚██████╔╝██║  ██║███████╗  ██║
----
+</pre>
+
+<h3 align="center">
+  <img src="https://flagcdn.com/w20/id.png" width="24" />
+  <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
+  <img src="https://flagcdn.com/w20/id.png" width="24" />
+</h3>
+
 
 
 ---
