@@ -62,9 +62,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 🛰️ **Server**: `KONGALI1720-SERVER-NUSANTARA`
 ---
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0012.gif" width="150" />
-</p>
+[![🇮🇩](https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0010.gif)](https://www.animatedimages.org/cat-indonesia-flag-781.htm)
 
 <p align="center">
   <strong>🇮🇩 Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital! 🇮🇩</strong>
