@@ -253,7 +253,7 @@ Click the link. Spread the word. Stand beside them.
 <body style="margin:0; height:100vh; display:flex; flex-direction:column; justify-content:center; align-items:center; background:#f9f9f9; font-family:sans-serif; text-align:center;">
 
   <h1 style="font-size: 2em; margin-bottom: 30px; animation: glow 1.5s ease-in-out infinite alternate;">
-    🇮🇩🇮🇩 Support INDONESIA Toward WORLD CUP 2026! ⚽⚽
+    🇮🇩 🇮🇩 Support INDONESIA Towards The WORLD CUP 2026! ⚽⚽
   </h1>
 
   <div style="display: flex; gap: 20px;">
