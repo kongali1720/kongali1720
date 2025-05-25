@@ -79,6 +79,19 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ---
 
+## 🚀 **REAL-TIME HACKING ACTIVITY** *(100% FAKE BUT EPIC!)*  
+
+[![Hacking Simulation](https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi)](https://github.com/kongali1720)  
+
+```terminal
+$ sudo cyberattack --target github.com --user kongali1720  
+🔓 Bypassing GitHub Security... [███████] 100%  
+💉 Injecting "KEREN" Virus...  
+🛠️ Compiling Fake Stats...  
+✅ Success! GitHub Profile upgraded to **LEGENDARY MODE**!
+
+---
+
 ## ⚒️ Skill de la Brutal
 
 - 💀 Ethical Hacking, Social Engineering, Reconnaissance  
