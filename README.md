@@ -35,7 +35,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=echo+%22Halo+Dunia%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=echo+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
 </p>
 
 ---
@@ -79,16 +79,9 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ---
 
-## 🚀 **REAL-TIME HACKING ACTIVITY** *(100% FAKE BUT EPIC!)*  
+## 🚀 **REAL-TIME HACKING ACTIVITY** *(100% EPIC!)*  
 
 [![Hacking Simulation](https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi)](https://github.com/kongali1720)  
-
-```terminal
-$ sudo cyberattack --target github.com --user kongali1720  
-🔓 Bypassing GitHub Security... [███████] 100%  
-💉 Injecting "KEREN" Virus...  
-🛠️ Compiling Fake Stats...  
-✅ Success! GitHub Profile upgraded to **LEGENDARY MODE**!
 
 ---
 
