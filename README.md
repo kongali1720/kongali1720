@@ -39,7 +39,13 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 </p>
 
 ---
+# LIVE HACKING SIMULATION (AUTO-UPDATE)  
+$ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done  
 
+🚀 Mon May 27 03:14:07 WIB: Bypassing Firewall... [DONE]  
+🚀 Mon May 27 03:14:08 WIB: Injecting Epic Stats... [SUCCESS]  
+🚀 Mon May 27 03:14:09 WIB: Drinking Coffee... [INFINITE LOOP]  
+---
 ## 🚀 REAL-TIME ACTIVITY
 [![GitHub Streak](https://streak-stats.demolab.com?user=kongali1720&theme=dark)](https://git.io/streak-stats)
 
