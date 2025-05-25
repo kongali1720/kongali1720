@@ -32,14 +32,6 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ---
 
-<h3 align="center">
-  <img src="https://flagcdn.com/w20/id.png" width="24" />
-  <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
-  <img src="https://flagcdn.com/w20/id.png" width="24" />
-</h3>
-
----
-
 ### 🧠 Tentang Kami
 
 > 🦅 `KONGALI1720` adalah komunitas coder, peneliti, dan defender siber yang berlandaskan nilai *syariah, etika, dan cinta tanah air*.  
