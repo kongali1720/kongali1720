@@ -251,19 +251,16 @@ Click the link. Spread the word. Stand beside them.
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-# Support Indonesia Towards the World Cup! 🇮🇩⚽
+# Support Indonesia Towards the World Cup 2026 ...! 🇮🇩⚽
 
 <table>
   <tr>
     <td width="70%" valign="middle">
-
-Let's support Indonesia on their journey to the World Cup 2026! This page features a glowing heading and an animated soccer ball to cheer for our national team.  
-
-</td>
+      Maarten Paes, the goalkeeper for Indonesia national team in 2024.
+    </td>
     <td width="30%" valign="middle" align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2024_Indonesia_Football_National_Team_Badge.png/240px-2024_Indonesia_Football_National_Team_Badge.png" alt="Indonesia National Team Badge" width="150" />
-
-</td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Maarten_Paes_2024.png" alt="Maarten Paes" width="150" />
+    </td>
   </tr>
 </table>
+
