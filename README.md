@@ -10,21 +10,16 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 
 ---
 
-<div align="center">
-  <!-- GIF BENDERA INDONESIA BERGERAK -->
-  <img src="https://media1.tenor.com/m/5WkGRo4z8dYAAAAC/indonesia-flag-waving.gif" width="400px" alt="Bendera Indonesia">
-  
-  <!-- GARUDA PANCASILA HD -->
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Garuda_Pancasila.svg/800px-Garuda_Pancasila.svg.png" width="150px" alt="Garuda Pancasila">
-  
-  <!-- TEKS ANIMASI -->
-  <h3> 
-    <img src="https://flagcdn.com/w20/id.png" width="30"> 
-    <b>KONGALI1720 - WE LOVE INDONESIA!</b> 
-    <img src="https://flagcdn.com/w20/id.png" width="30">
-  </h3>
-</div>
+<p align="center">
+  <!-- BANNER GIF INDONESIA BERGERAK -->
+  <img src="https://your-image-host.com/animated-indonesia-banner.gif" alt="Banner Indonesia Hacker Syariah" />
+</p>
+
+<h3 align="center">
+  <img src="https://flagcdn.com/w20/id.png" width="24" />
+  <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
+  <img src="https://flagcdn.com/w20/id.png" width="24" />
+</h3>
 
 ---
 
