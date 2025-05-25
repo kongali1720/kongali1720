@@ -253,22 +253,5 @@ Click the link. Spread the word. Stand beside them.
 
 ---
 <div style="text-align: center;">
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0023.gif" border="0" alt="dog-1" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0025.gif" border="0" alt="dog-2" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0046.gif" border="0" alt="dog-3" />
-  </a>
-    <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0023.gif" border="0" alt="dog-1" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0036.gif" border="0" alt="dog-4" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0050.gif" border="0" alt="dog-5" />
-  </a>
+<a href="https://www.animatedimages.org/cat-update-696.htm"><img src="https://www.animatedimages.org/data/media/696/animated-update-image-0020.gif" border="0" alt="animated-update-image-0020" /></a>
 </div>
