@@ -51,10 +51,15 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ### 🌐 Bergabung / Kontak
 
-📲 **Telegram**: [@kongali1720](https://t.me/kongali1720)  
-📧 **Email**: `info@kongali1720.id`  
-🛰️ **Server**: `KONGALI1720-SERVER-NUSANTARA`
+📍 **Hosted on PythonAnywhere**  
+🔗 [https://www.pythonanywhere.com/user/kongali1720/](https://www.pythonanywhere.com/user/kongali1720/)
 
+📍 **Deployed on AWS Console**  
+🔗 [https://us-east-1.console.aws.amazon.com/541170204401](https://us-east-1.console.aws.amazon.com/541170204401)
+
+📲 **Telegram**: [@kongali1720](https://t.me/kongali1720)  
+📧 **Email**: `kongali1720@gmail.com`  
+🛰️ **Server**: `KONGALI1720-SERVER-NUSANTARA`
 ---
 
 <p align="center">
