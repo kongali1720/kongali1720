@@ -9,7 +9,6 @@ Hello World! ~ aku **Kongali1720**, IT Developer dengan otak ngebul ama scriptin
 Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
 ---
-
 <p align="center">
   <!-- Bendera Indonesia Bergerak -->
   <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
@@ -309,3 +308,4 @@ Click the link. Spread the word. Stand beside them.
   </div>
 </body>
 </html>
+---
