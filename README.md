@@ -11,18 +11,18 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ---
 
 <div align="center">
-  <!-- GIF Bendera Merah Putih Bergerak -->
-  <img src="https://i.gifer.com/7I7x.gif" width="400px" alt="Bendera Indonesia Bergerak">
+  <!-- GIF BENDERA INDONESIA BERGERAK -->
+  <img src="https://media1.tenor.com/m/5WkGRo4z8dYAAAAC/indonesia-flag-waving.gif" width="400px" alt="Bendera Indonesia">
   
-  <!-- Garuda Pancasila -->
+  <!-- GARUDA PANCASILA HD -->
   <br>
-  <img src="https://www.pngall.com/wp-content/uploads/5/Garuda-Pancasila-PNG-HD-Image.png" width="150px" alt="Garuda Pancasila">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Garuda_Pancasila.svg/800px-Garuda_Pancasila.svg.png" width="150px" alt="Garuda Pancasila">
   
-  <!-- Teks Animasi Merah Putih -->
+  <!-- TEKS ANIMASI -->
   <h3> 
-    <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="20"> 
-    <b>KONGALI1720 - I LOVE INDONESIA!</b> 
-    <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="20">
+    <img src="https://flagcdn.com/w20/id.png" width="30"> 
+    <b>KONGALI1720 - WE LOVE INDONESIA!</b> 
+    <img src="https://flagcdn.com/w20/id.png" width="30">
   </h3>
 </div>
 
