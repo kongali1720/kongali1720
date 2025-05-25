@@ -11,6 +11,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 ---
 
 <p align="center">
+  <!-- Bendera Indonesia Bergerak -->
   <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
     <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0012.gif" alt="Bendera Indonesia Bergerak" />
   </a>
@@ -21,6 +22,57 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
   <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
   <img src="https://flagcdn.com/w20/id.png" width="24" />
 </h3>
+
+<p align="center">
+  <!-- Telegram Badge -->
+  <a href="https://t.me/kongali1720">
+    <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram" alt="Join Telegram" />
+  </a>
+</p>
+
+---
+██╗  ██╗ ██████╗ ███╗   ██╗ ██████╗   █████╗ ██╗       ██╗
+██║ ██╔╝██╔═══██╗████╗  ██║██╔════╝  ██╔══██╗██║       ██║
+█████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗ ███████║██║       ██║
+██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║ ██╔══██║██║       ██║
+██║  ██╗╚██████╔╝██║  ╚████║╚██████╔╝██║  ██║███████╗  ██║
+---
+
+
+---
+
+### 🧠 Tentang Kami
+
+> 🦅 `KONGALI1720` adalah komunitas coder, peneliti, dan defender siber yang berlandaskan nilai *syariah, etika, dan cinta tanah air*.  
+> Bergabunglah bersama kami dalam membangun dunia digital yang aman, berkah, dan berdaulat.
+
+---
+
+### 💻 Spesialisasi
+
+- 💼 **Simulasi SWIFT / Bank Scripting (MT103/Barclays/UBS)**
+- 🌐 **Terminal Bash dan OSINT Syariah**
+- 🔒 **Cybersecurity & Ethical Penetration Testing**
+- 🧬 **Crypto Forensics**
+- 📜 **Mnemonic Wallet Generator & Chain Analysis**
+
+---
+
+### 🌐 Bergabung / Kontak
+
+📲 **Telegram**: [@kongali1720](https://t.me/kongali1720)  
+📧 **Email**: `info@kongali1720.id`  
+🛰️ **Server**: `KONGALI1720-SERVER-NUSANTARA`
+
+---
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0012.gif" width="150" />
+</p>
+
+<p align="center">
+  <strong>🇮🇩 Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital! 🇮🇩</strong>
+</p>
 
 
 ---
