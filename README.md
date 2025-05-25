@@ -61,13 +61,15 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 📧 **Email**: `kongali1720@gmail.com`  
 🛰️ **Server**: `KONGALI1720-SERVER-NUSANTARA`
 ---
-
-[![🇮🇩](https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0010.gif)](https://www.animatedimages.org/cat-indonesia-flag-781.htm)
+<p align="center">
+  <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
+    <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0010.gif" alt="animated-indonesia-flag-image-0010" />
+  </a>
+</p>
 
 <p align="center">
   <strong>🇮🇩 Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital! 🇮🇩</strong>
 </p>
-
 
 ---
 
