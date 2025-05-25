@@ -34,6 +34,45 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=echo+%22Halo+Dunia%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
+</p>
+
+```bash
+# KONFIGURASI KONGALI1720
+$ git config --global user.name "Hacker Syariah"
+$ git config --global user.email "kongali1720@gmail.com"
+$ git commit -am "AKU GAK BISA DIHENTIKAN"
+
+---
+
+#### 🕹️ **VERSI GAME + BADGE**
+```markdown
+## 🎮 PLAY MY SNAKE GAME
+![Snake Game](https://github.com/kongali1720/kongali1720/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆 MY TROPHIES
+[![trophy](https://github-profile-trophy.vercel.app/?username=kongali1720&theme=onedark)](https://github.com/kongali1720)
+
+## 💥 TECH STACK
+<img src="https://skillicons.dev/icons?i=python,php,bash,mysql,linux,flask,nodejs">
+
+```
+  )  )
+ (  (   ☕
+.-'--'-.
+| FBI  |  [WARNING]
+| WATCHLIST |  KAFEIN LEVEL: 9000mg
+|______|  STATUS: CODING SAMPAI MATI
+```
+
+## 🚀 REAL-TIME ACTIVITY
+[![GitHub Streak](https://streak-stats.demolab.com?user=kongali1720&theme=dark)](https://git.io/streak-stats)
+
+![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
+
+---
+
 ## 💡 Julukan sesuai order yang dikerjakan
 
 🛠️ Arsitek Dunia Maya  
