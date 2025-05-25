@@ -252,20 +252,74 @@ Click the link. Spread the word. Stand beside them.
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-<div style="text-align: center;">
-  <!-- Hamster Dance Cowboy -->
-  <img src="https://media.tenor.com/1Z2zKcZ3xWgAAAAC/hamster-dance-dancing.gif" alt="Hamster Dance Cowboy" width="150" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Funny Animated Animals</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    #countdown {
+      font-size: 1.5em;
+      margin-bottom: 20px;
+      color: #ff3366;
+      font-weight: bold;
+    }
+    .gif-grid {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .gif-box {
+      width: 160px;
+      height: 160px;
+      border: 3px solid #ccc;
+      padding: 5px;
+      border-radius: 10px;
+      background-color: white;
+      animation: blink 2s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { box-shadow: 0 0 10px #ff99cc; }
+      50% { box-shadow: 0 0 20px #66ccff; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Funny Animated Animals</h1>
+  <div id="countdown">Countdown: <span id="timer">10</span> seconds</div>
+  <div class="gif-grid">
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0050.gif" width="150" height="150"></div>
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/108/animated-cat-image-0183.gif" width="150" height="150"></div>
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/112/animated-panda-image-0027.gif" width="150" height="150"></div>
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/707/animated-elephant-image-0027.gif" width="150" height="150"></div>
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0087.gif" width="150" height="150"></div>
+    <div class="gif-box"><img src="https://www.animatedimages.org/data/media/108/animated-cat-image-0021.gif" width="150" height="150"></div>
+  </div>
+  <script>
+    let seconds = 10;
+    const timerEl = document.getElementById('timer');
 
-  <!-- Pixel Dancing Frog -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Pixel Dancing Frog" width="150" />
+    const countdown = setInterval(() => {
+      seconds--;
+      timerEl.textContent = seconds;
+      if (seconds <= 0) {
+        clearInterval(countdown);
+        document.getElementById('countdown').textContent = 'Time's up!';
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
 
-  <!-- Dancing Winnie-the-Pooh -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Winnie-the-Pooh" width="150" />
-
-  <!-- Bongo Cat Tapping Bongos -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Bongo Cat Tapping Bongos" width="150" />
-
-  <!-- Bongo Cat dengan Topi Santa -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Bongo Cat dengan Topi Santa" width="150" />
-
-</div>
