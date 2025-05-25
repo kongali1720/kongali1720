@@ -9,11 +9,13 @@ Hello World! ~ aku **Kongali1720**, IT Developer dengan otak ngebul ama scriptin
 Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5vY2V0dGJvY3BqY2V6Z2Z1Z2R6Y2J6eHF4Y2NqZzZ1ZzZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFvHvpzyElYQ/giphy.gif" width="400px">
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Garuda_Pancasila.svg/1200px-Garuda_Pancasila.svg.png" width="100px">
 </div>
+
 ---
 
 
