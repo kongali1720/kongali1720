@@ -253,24 +253,21 @@ Click the link. Spread the word. Stand beside them.
 
 ---
 <div style="text-align: center;">
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0023.gif" border="0" alt="dog-1" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0025.gif" border="0" alt="dog-2" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0046.gif" border="0" alt="dog-3" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0036.gif" border="0" alt="dog-4" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0050.gif" border="0" alt="dog-5" />
-  </a>
-  <a href="https://www.animatedimages.org/cat-dogs-202.htm">
-    <img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0029.gif" border="0" alt="dog-6" />
-  </a>
+  <!-- Hamster Dance Cowboy -->
+  <img src="https://media.tenor.com/1Z2zKcZ3xWgAAAAC/hamster-dance-dancing.gif" alt="Hamster Dance Cowboy" width="150" />
+
+  <!-- Pixel Dancing Frog -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Pixel Dancing Frog" width="150" />
+
+  <!-- Dancing Winnie-the-Pooh -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Winnie-the-Pooh" width="150" />
+
+  <!-- Bongo Cat Tapping Bongos -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Bongo Cat Tapping Bongos" width="150" />
+
+  <!-- Bongo Cat dengan Topi Santa -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Bongo Cat dengan Topi Santa" width="150" />
+
+  <!-- Bongo Cat Sailor Moon Inspired -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Bongo Cat Sailor Moon Inspired" width="150" />
 </div>
-
-
