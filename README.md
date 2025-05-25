@@ -11,8 +11,9 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
 ---
 
 <p align="center">
-  <!-- BANNER GIF INDONESIA BERGERAK -->
-  <img src="https://your-image-host.com/animated-indonesia-banner.gif" alt="Banner Indonesia Hacker Syariah" />
+  <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
+    <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0012.gif" alt="Bendera Indonesia Bergerak" />
+  </a>
 </p>
 
 <h3 align="center">
@@ -20,6 +21,7 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi â
   <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
   <img src="https://flagcdn.com/w20/id.png" width="24" />
 </h3>
+
 
 ---
 
