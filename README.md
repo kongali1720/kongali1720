@@ -250,3 +250,7 @@ Click the link. Spread the word. Stand beside them.
 ---
 
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
+
+---
+<a href="https://www.animatedimages.org/cat-dogs-202.htm"><img src="https://www.animatedimages.org/data/media/202/animated-dog-image-0050.gif" border="0" alt="animated-dog-image-0050" /></a>
+---
