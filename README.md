@@ -268,6 +268,4 @@ Click the link. Spread the word. Stand beside them.
   <!-- Bongo Cat dengan Topi Santa -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Bongo Cat dengan Topi Santa" width="150" />
 
-  <!-- Bongo Cat Sailor Moon Inspired -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Bongo Cat Sailor Moon Inspired" width="150" />
 </div>
