@@ -170,19 +170,32 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 💻 INITIATING HUMANITY MODE...
-> Target Locked: Anak-anak Pejuang Down Syndrome
-> Status: Butuh Dukungan
-> Response: Buka Hati + Klik Link = Satu Senyum Baru
 
-🧬 Mereka bukan berbeda, mereka hanya dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.
+🎯 Target Identified: Brave Children with Down Syndrome
+📍 Current Status: Need Your Love and Support
+💖 Response Protocol: Open Your Heart + Click the Link = One More Smile in the World
+🧬 They aren’t different — they’re simply born with a beautiful mission:
+  👉 To remind us what unconditional love looks like.
+  👉 To teach us patience, kindness, and resilience in its purest form.
+  👉 To show that joy can shine through the smallest victories.
 
-👣 Setiap langkah kecil mereka = Keajaiban besar.
+👣 Every tiny step they take is a huge leap of courage.
+  👉 Each smile, each hug, each word — a miracle unfolding.
 
-⚡ Bantu mereka melangkah lebih jauh, dengan caramu sendiri.
+🛡️ They are warriors in the truest sense.
+  👉 Not with swords or shields, but with laughter, innocence, and unstoppable spirit.
+
+⚡ You can be part of their journey.
+  👉 Support doesn’t always mean grand gestures — sometimes, it starts with a click, a share, a donation, or even a kind word.
+
+🌈 Together, we can create a world where every child feels seen, valued, and loved — just as they are.
+
+🫶 Be the reason a child smiles today.
+  👉 Click the link. Spread the word. Stand beside them.
 
 <p align="center"> <a href="https://mydonation4ds.github.io/" target="_blank"> <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" /> </a> </p>
 
     "Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi juga soal peduli cuy." 🖤
 ---
 
-> "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
+🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
