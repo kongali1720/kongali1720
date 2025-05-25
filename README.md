@@ -251,8 +251,6 @@ Click the link. Spread the word. Stand beside them.
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-# Support Indonesia Towards the World Cup 2026 ...! 🇮🇩⚽
-
 <table>
   <tr>
     <td width="70%" valign="middle">
@@ -263,4 +261,5 @@ Click the link. Spread the word. Stand beside them.
     </td>
   </tr>
 </table>
+
 
