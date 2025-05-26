@@ -1,12 +1,33 @@
 
-# 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat Dunk 🌐⚡
+# 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
+![Kongali1720](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Kongali1720%20👨‍💻&fontSize=60&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20IT%20Programmer%20🌐&descAlign=center&descSize=16)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kongali1720%20👨‍💻&fontSize=40&fontAlign=center&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20IT%20Programmer%20🌈&descAlign=center&descSize=16)
+![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=💀+KONGALI1720+-+TERMINAL+BUTCHER;⚔️+I+Don’t+Code,+I+Execute.;🔥+NGODING+SEPERTI+NERAKA,+BUG+GAK+DIAMPUNI;👁️‍🗨️+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🩸+System+Cracked.+Protocol+404+Active...)
 
 ## 🤖 Who Am I?
 
-Hello World! ~ aku **Kongali1720**, IT Developer dengan otak ngebul ama scripting and coding tapi hati penuh kopi.  
-Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi ☕ sambil inject SQL 💉.
+👋 Hello, World!
+
+I’m Kongali1720, an IT Developer with a processor fried by too much scripting 🧠🔥 and a bloodstream 90% caffeine.
+
+    ☀️ Morning: Warming up the terminal, killing bugs with ps aux | grep
+
+    🔍 Afternoon: Testing systems until they cry in stderr
+
+    🕯️ Night: Guarding candles with no context — just like null
+
+    🕛 Midnight: Injecting SQL while whispering to my coffee mug 💉☕
+
+My editor is Vim, my enemy is semicolons, and my crush? Still 404.
+🧠 Hacker's Manifesto Lite™
+
+    “I don’t log in — I ssh into reality.”
+
+📁 Repo? /etc/obsession/kongali1720
+🖥️ Motto? while(alive) { code(); coffee(); repeat(); }
+
+🚀 Stay Rooted. Stay Anonymous. Stay Awesome.
+If you see weird blinking on your router... don't worry, I'm just saying hi 👋.
 
 ---
 <p align="center">
@@ -40,8 +61,8 @@ Pagi ngoding, siang ngetes sistem, malam jaga_lilin... dan tengah malam? Ngopi �
 
 ### 💻 Spesialisasi
 
-- 💼 **Simulasi SWIFT / Bank Scripting (MT103/Barclays/UBS)**
-- 🌐 **Terminal Bash dan OSINT Syariah**
+- 💼 **SWIFT Testing/ Bank Scripting (MT103/Barclays/UBS/deutschebank/HSBC)**
+- 🌐 **Terminal Bash dan OSINT Syariah-MODE**
 - 🔒 **Cybersecurity & Ethical Penetration Testing**
 - 🧬 **Crypto Forensics**
 - 📜 **Mnemonic Wallet Generator & Chain Analysis**
