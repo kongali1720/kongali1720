@@ -1,3 +1,10 @@
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+</p>
+
+---
 
 # 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
 ![Kongali1720](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Kongali1720%20👨‍💻&fontSize=60&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20IT%20Programmer%20🌐&descAlign=center&descSize=16)
@@ -175,6 +182,12 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 ## 🚀 **REAL-TIME HACKING ACTIVITY** *(100% EPIC!)*  
 
 [![Hacking Simulation](https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi)](https://github.com/kongali1720)  
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="400"/>
+</p>
 
 ---
 
