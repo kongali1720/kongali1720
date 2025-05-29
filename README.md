@@ -1,15 +1,16 @@
----
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
 </p>
 
 ---
 
-# 👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
-![Kongali1720](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Kongali1720%20👨‍💻&fontSize=60&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20💀%20|%20Code%20Wizard%20⚔️%20|%20IT%20Programmer%20🌐&descAlign=center&descSize=16)
+#     👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
+#       ⚔️ 黑客精灵 | プログラミングの鬼才 | 终结者コーダー 🀄
 
-![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=💀+KONGALI1720+-+TERMINAL+BUTCHER;⚔️+I+Don’t+Code,+I+Execute.;🔥+NGODING+SEPERTI+NERAKA,+BUG+GAK+DIAMPUNI;👁️‍🗨️+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🩸+System+Cracked.+Protocol+404+Active...)
+![Kongali1720](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kongali1720%20👨‍💻&fontSize=120&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20🎧%0A%7C%20Code%20Wizard%20⚔️%0A%7C%20IT%20Programmer%20🟢🟢🟢🟢&descAlign=center&descSize=20&descAlignY=10)
+
+![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=🀄+KONGALI1720+-+TERMINAL+BUTCHER;🎧+SHARING+Knowledge+for+Everyone;🔥+NGODING+SEPERTI+NERAKA,+BUG+GAK+DIAMPUNI;🔁+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🪨+System+Cracked.+Protocol+404+Active...)
+
 
 ## 🤖 Who Am I?
 
@@ -207,8 +208,6 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=false" width="48%" />
   
@@ -230,6 +229,30 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
   <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-15%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+🚀 Skill Matrix 2024
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,java,react,next,vue,nodejs,express,nestjs,django,flask,spring,aws,gcp,azure,docker,kubernetes,git,github,gitlab,linux,bash,mysql,postgres,mongodb,redis,grafana,prometheus&perline=15" width="90%"/> </p><div align="center">
+Language	Proficiency	Weekly Activity	Projects
+Python	🔵🔵🔵🔵⚪ 85%	🟢🟢🟢🟢⚫ 18hrs	24
+JavaScript	🔵🔵🔵⚪⚪ 65%	🟢🟢🟢⚫⚫ 12hrs	18
+Bash	🔵🔵🔵⚪⚪ 60%	🟢🟢⚫⚫⚫ 8hrs	9
+SQL	🔵🔵⚪⚪⚪ 40%	🟢⚫⚫⚫⚫ 5hrs	6
+</div>
+
+---
+
+𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kongali1720&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" width="100%"/> </p>
+
+---
+
+𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/yourprofile"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+</a>
+
 </p>
 
 ---
