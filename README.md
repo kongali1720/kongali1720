@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -99,6 +99,10 @@ If you see weird blinking on your router... don't worry, I'm just saying hi 👋
   <strong>🇮🇩 Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital! 🇮🇩</strong>
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYwNnR2bTNhd2w1d24yYmN1dTRjaTlib3BidWI2ZHY4cXMwbXQwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
+</p>
+
 ---
 
 
@@ -187,7 +191,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200"/>
 </p>
 
 ---
