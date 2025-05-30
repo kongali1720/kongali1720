@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB1bnJ1NHVwaTcxNTY4anV6aW5veWViOW9ydTV4enJ0b3pqOGQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="800"/>
 </p>
 
 ---
