@@ -1,3 +1,6 @@
+<p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="800"/>
