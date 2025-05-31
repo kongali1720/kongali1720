@@ -264,73 +264,103 @@ SQL	🔵🔵⚪⚪⚪ 40%	🟢⚫⚫⚫⚫ 5hrs	6
 </p>
 
 ---
+<h2 align="center">☕ Traktir Hukumnya Harus ya GUYSSS!!!</h2>
 
-## ☕ Traktir Hukumnya Harus ya GUYSSS!!!
+<div align="center">
 
-> Dukung aku agar tetap waras menulis script tengah malam...
+# 💡 Dukung aku agar tetap waras menulis script tengah malam...
 
-👉 [**Buy Me a Coffee via PayPal**](https://www.paypal.com/paypalme/bungtempong99) 👈  
-*Support with 💸 so I can buy ☕ and keep being 🔥!*
+[Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)  
+Support with ☕ so I can buy 🍜 and keep being 🧠!
+
+---
+
+<h2>📫 Let’s Connect Like Hackers</h2>
+
+| Platform | Detail |
+|:--------|:-------|
+| GitHub  | [kongali1720](https://github.com/kongali1720) |
+| Email   | [kongali1720@gmail.com](mailto:kongali1720@gmail.com) |
+| Site    | [Coming soon — stay curious... ](https://kongali1720.github.io)|
 
 ---
 
-## 📫 Let’s Connect Like Hackers
+# ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️
 
-- 🧙 GitHub: [kongali1720](https://github.com/kongali1720)
-- 💌 Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
-- 🕵️‍♂️ Site: Coming soon — stay curious...
+| Item        | Keterangan |
+|:------------|:-----------|
+| 🎯 Target   | Anak-anak Pejuang Down Syndrome |
+| 📡 Status   | Butuh Dukungan |
+| 🧠 Response | Buka Hati + Klik Link = Satu Senyum Baru |
+
+> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.
+
+<p align="center">
+  <a href="https://mydonation4ds.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" alt="Support Now" />
+  </a>
+</p>
 
 ---
+
+| Quotes | Penjelasan |
+|:-------|:-----------|
+| 🧡 "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." |  |
+| 🧠 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" |  |
+
+---
+
 💻 INITIATING HUMANITY MODE...
 
-🎯 Target Identified: Brave Children with Down Syndrome
-📍 Current Status: Need Your Love and Support
+🎯 Target Identified: Brave Children with Down Syndrome  
+📍 Current Status: Need Your Love and Support  
 💖 Response Protocol: Open Your Heart + Click the Link = One More Smile in the World
 
-🧬 They aren’t different — they’re simply born with a beautiful mission:
-To remind us what unconditional love looks like.
-To teach us patience, kindness, and resilience in its purest form.
+🧬 They aren’t different — they’re simply born with a beautiful mission:  
+To remind us what unconditional love looks like.  
+To teach us patience, kindness, and resilience in its purest form.  
 To show that joy can shine through the smallest victories.
 
-👣 Every tiny step they take is a huge leap of courage.
+👣 Every tiny step they take is a huge leap of courage.  
 Each smile, each hug, each word — a miracle unfolding.
 
-🛡️ They are warriors in the truest sense.
+🛡️ They are warriors in the truest sense.  
 Not with swords or shields, but with laughter, innocence, and unstoppable spirit.
 
-⚡ You can be part of their journey.
+⚡ You can be part of their journey.  
 Support doesn’t always mean grand gestures — sometimes, it starts with a click, a share, a donation, or even a kind word.
 
 🌈 Together, we can create a world where every child feels seen, valued, and loved — just as they are.
 
-🫶 Be the reason a child smiles today.
+🫶 Be the reason a child smiles today.  
 Click the link. Spread the word. Stand beside them.
 
-<p align="center"> <a href="https://mydonation4ds.github.io/" target="_blank"> <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" /> </a> </p>
+<p align="center" style="font-size: 1.5rem;">
+  <a href="https://mydonation4ds.github.io/" target="_blank" style="display: inline-block;">
+    <img 
+      src="https://img.shields.io/badge/SUPPORT--NOW-%23FF6600?style=for-the-badge&logo=heart&logoColor=white&labelColor=white&color=FF6600" 
+      alt="Support Now" 
+      style="width: 300px; height: auto;" 
+    />
+  </a>
+</p>
 
-    "Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi juga soal peduli cuy." 🖤
+_"Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi juga soal peduli cuy." 🖤_
+
 ---
 
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
 
-<body style="margin:0; height:100vh; display:flex; flex-direction:column; justify-content:center; align-items:center; background:#f9f9f9; font-family:sans-serif; text-align:center;">
-
-  <h1 style="font-size: 2em; margin-bottom: 30px; animation: glow 1.5s ease-in-out infinite alternate;">
-    🇮🇩 🇮🇩 Support INDONESIA Towards The WORLD CUP 2026! ⚽⚽
-  </h1>
-
-  <div style="display: flex; gap: 20px;">
-    <img src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif" width="120" height="120" alt="Support Indonesia" style="border: 3px solid #ff3366; border-radius: 12px; box-shadow: 0 0 15px #ffcc00;">
-    <img src="https://www.animatedimages.org/data/media/1182/animated-soccer-image-0007.gif" width="120" height="120" alt="Support Indonesia" style="border: 3px solid #ff3366; border-radius: 12px; box-shadow: 0 0 15px #ffcc00;">
+<p align="center" style="display: flex; justify-content: center; align-items: flex-end; gap: 50px; margin-top: 20px; height: 80px;">
+  <div style="height: 60px; display: flex; align-items: flex-end;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/100px-Visa_Logo.png" alt="Visa" style="max-height: 100%; max-width: 120px;" />
   </div>
-</body>
-
-
-
-
-
-
-
-
+  <div style="height: 60px; display: flex; align-items: flex-end;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/100px-Mastercard-logo.svg.png" alt="Mastercard" style="max-height: 100%; max-width: 120px;" />
+  </div>
+  <div style="height: 60px; display: flex; align-items: flex-end;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/100px-PayPal_logo.svg.png" alt="PayPal" style="max-height: 100%; max-width: 120px;" />
+  </div>
+</p>
