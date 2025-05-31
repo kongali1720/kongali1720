@@ -281,7 +281,7 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
 |:--------|:-------|
 | GitHub  | [kongali1720](https://github.com/kongali1720) |
 | Email   | [kongali1720@gmail.com](mailto:kongali1720@gmail.com) |
-| Site    | [Coming soon — stay curious... ](https://kongali1720.github.io)|
+| Site    | [https://kongali1720.github.io](https://kongali1720.github.io)|
 
 ---
 
