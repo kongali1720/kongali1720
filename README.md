@@ -512,7 +512,6 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-🚀 Skill Matrix 2024
 <h3 align="center">🚀 Skill Matrix 2024</h3>
 
 <p align="center">
