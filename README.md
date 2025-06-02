@@ -24,8 +24,6 @@
 
 <p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
 
----
-
 <div align="center">
 
 <table>
