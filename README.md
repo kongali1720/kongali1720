@@ -62,6 +62,9 @@
   <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kongali1720/awesome-ai-tools-indonesia/main/awesome-ai-tools.png" alt="Awesome AI Tools Banner" />
+</p>
 ---
 
 #     👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
