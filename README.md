@@ -448,13 +448,28 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-## ⚒️ Skill de la Brutal
+<h2 align="center">⚒️ Skill de la Brutal</h2>
 
-- 💀 Ethical Hacking, Social Engineering, Reconnaissance  
-- 🧠 Coding Addict: Python, PHP, Bash, SQL, Clang, JavaScript  
-- 💻 Full-stack Magic: Flask, Bootstrap, Express.js, Angular, Spring  
-- 🔐 Pentest Tools: sqlmap, nmap, Burp Suite, Metasploit, Wireshark  
-- 🔄 Automation & Parsing: Linux + JSON + BeautifulSoup + Shell seduction  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; max-width: 800px; margin: auto;">
+
+  <div style="min-width: 250px; text-align: left;">
+    <p>💀 <b>Ethical Hacking</b>, Social Engineering, Reconnaissance</p>
+    <p>🧠 <b>Coding Addict:</b> Python, PHP, Bash, SQL, Clang, JavaScript</p>
+  </div>
+
+  <div style="min-width: 250px; text-align: left;">
+    <p>💻 <b>Full-stack Magic:</b> Flask, Bootstrap, Express.js, Angular, Spring</p>
+    <p>🔐 <b>Pentest Tools:</b> sqlmap, nmap, Burp Suite, Metasploit, Wireshark</p>
+  </div>
+
+  <div style="min-width: 250px; text-align: left;">
+    <p>🔄 <b>Automation & Parsing:</b> Linux + JSON + BeautifulSoup + Shell seduction</p>
+  </div>
+
+</div>
+
+
+---
 
 ```bash
 🧃 I like:    JSON, Linux, MySQL, WebSocket, Terminal
@@ -558,12 +573,12 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬
+<h3 align="center"> 🚀 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kongali1720&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" width="100%"/> </p>
 
 ---
 
-𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔
+<h3 align="center"> 🚀 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h3>
 <p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/yourprofile"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
 
