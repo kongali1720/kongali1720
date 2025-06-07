@@ -22,39 +22,40 @@
 
 ---
 
-<p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
+<p align="center">
+  Made with 💻 + ☕ by Kongali1720
+</p>
 
-<div align="center">
-
-<table>
+<table align="center" style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
-      <th>🚀 <b>Platform</b></th>
-      <th>🔥 <b>Detail & Link</b></th>
+      <th>🚀 Platform</th>
+      <th>🔥 Detail & Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🐙 <b>GitHub</b></td>
-      <td><a href="https://github.com/kongali1720">kongali1720</a></td>
+      <td>🐙 GitHub</td>
+      <td><a href="https://github.com/kongali1720" target="_blank">kongali1720</a></td>
     </tr>
     <tr>
-      <td>📧 <b>Email</b></td>
+      <td>📧 Email</td>
       <td><a href="mailto:kongali1720@gmail.com">kongali1720@gmail.com</a></td>
     </tr>
     <tr>
-      <td>🌐 <b>Website</b></td>
-      <td><a href="https://kongali1720.github.io">kongali1720.github.io</a></td>
+      <td>🌐 Website</td>
+      <td><a href="https://kongali1720.github.io" target="_blank">kongali1720.github.io</a></td>
     </tr>
     <tr>
-      <td>⚡ <b>Live Hacking</b></td>
-      <td><a href="https://kongali1720.github.io/live_hacking.html">⚔️ Hacking in Action! ⚔️</a></td>
+      <td>⚡ Live Hacking</td>
+      <td><a href="https://kongali1720.github.io/live_hacking.html" target="_blank">⚔️ Hacking in Action! ⚔️</a></td>
+    </tr>
+    <tr>
+      <td>🌟 Awesome AI</td>
+      <td><a href="https://kongali1720.github.io/awesome-ai-indonesia.html" target="_blank">🔥Awesome AI Indonesia🔥</a></td>
     </tr>
   </tbody>
 </table>
-
-</div>
-
 
 ---
 
@@ -65,95 +66,172 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kongali1720/awesome-ai-tools-indonesia/main/awesome-ai-tools.png" alt="Awesome AI Tools Banner" />
 </p>
+
 ---
+<h1 align="center">👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡</h1>
 
-#     👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡
-#       ⚔️ 黑客精灵 | プログラミングの鬼才 | 终结者コーダー 🀄
+<h2 align="center">⚔️ 黑客精灵 | プログラミングの鬼才 | 终结者コーダー 🀄</h2>
 
-![Kongali1720](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kongali1720%20👨‍💻&fontSize=120&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20🎧%0A%7C%20Code%20Wizard%20⚔️%0A%7C%20IT%20Programmer%20🟢🟢🟢🟢&descAlign=center&descSize=20&descAlignY=10)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kongali1720%20👨‍💻&fontSize=120&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20🎧%0A%7C%20Code%20Wizard%20⚔️%0A%7C%20IT%20Programmer%20🟢🟢🟢🟢&descAlign=center&descSize=20&descAlignY=10" alt="Kongali1720 Banner" />
+</p>
 
 ![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=🀄+KONGALI1720+-+TERMINAL+BUTCHER;🎧+SHARING+Knowledge+for+Everyone;🔥+NGODING+SEPERTI+NERAKA,+BUG+GAK+DIAMPUNI;🔁+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🪨+System+Cracked.+Protocol+404+Active...)
 
 
-# 🤖 About Me — The Code Alchemist
+<h1 align="center">🤖 About Me — The Code Alchemist</h1>
 
-👋 Hey there, future tech legends!
+<p align="center">
+  👋 Hey there, future tech legends!
+</p>
 
-I’m Kongali1720, a relentless IT Developer fueled by caffeine ☕ and fueled by curiosity. My mind? A high-frequency CPU running on endless lines of code and zero bugs tolerated.
+<p align="center">
+  I’m <strong>Kongali1720</strong>, a relentless IT Developer fueled by caffeine ☕ and fueled by curiosity. My mind? A high-frequency CPU running on endless lines of code and zero bugs tolerated.
+</p>
 
-  ☀️ Morning: Debugging life, one terminal command at a time  
-
-  🔎 Afternoon: Architecting digital worlds with precision & passion  
-  
-  🌙 Night: Encrypting dreams in binary, defending the cyber frontier  
-  
-  🕛 Midnight: Crafting SQL injections smoother than espresso shots
+<table align="center" style="margin: 0 auto; text-align: center;">
+  <tbody>
+    <tr>
+      <td>☀️ Morning</td>
+      <td>Debugging life, one terminal command at a time</td>
+    </tr>
+    <tr>
+      <td>🔎 Afternoon</td>
+      <td>Architecting digital worlds with precision &amp; passion</td>
+    </tr>
+    <tr>
+      <td>🌙 Night</td>
+      <td>Encrypting dreams in binary, defending the cyber frontier</td>
+    </tr>
+    <tr>
+      <td>🕛 Midnight</td>
+      <td>Crafting SQL injections smoother than espresso shots</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-# 💥 SIAPA GUE? — **KONGALI1720**
+<h1 align="center">💥 SIAPA GUE? — <strong>KONGALI1720</strong></h1>
 
-🚨 *Kode, kopi, dan konsentrasi. Sisanya urusan nanti.*
+<p align="center">
+🚨 <em>Kode, kopi, dan konsentrasi. Sisanya urusan nanti.</em>
+</p>
 
-Gue **Kongali1720** — si developer terminal sejati.  
-Darah gue bukan merah putih doang, tapi juga penuh baris-baris kode dan log error.  
+<p align="center">
+Gue <strong>Kongali1720</strong> — si developer terminal sejati.<br>
+Darah gue bukan merah putih doang, tapi juga penuh baris-baris kode dan log error.<br>
 Kalau udah buka Vim, dunia bisa kiamat juga bodo amat 😎
+</p>
 
 ---
 
-## 🔥 JADWAL PERANG VERSI GUE
+<h2 align="center">🔥 JADWAL PERANG VERSI GUE</h2>
 
-- ☀️ **Pagi** — Buka terminal, ps aux | grep musuh
-- 🧪 **Siang** — Testing sistem sampai kernel nyerah
-- 🌙 **Malam** — Debugging pakai feeling, bukan dokumen
-- 🕛 **Tengah Malam** — Bisik-bisik ke database sambil suntik SQL 💉
+<table align="center" style="margin: 0 auto; text-align: center;">
+  <tbody>
+    <tr>
+      <td>☀️ <strong>Pagi</strong></td>
+      <td>Buka terminal, <code>ps aux | grep musuh</code></td>
+    </tr>
+    <tr>
+      <td>🧪 <strong>Siang</strong></td>
+      <td>Testing sistem sampai kernel nyerah</td>
+    </tr>
+    <tr>
+      <td>🌙 <strong>Malam</strong></td>
+      <td>Debugging pakai feeling, bukan dokumen</td>
+    </tr>
+    <tr>
+      <td>🕛 <strong>Tengah Malam</strong></td>
+      <td>Bisik-bisik ke database sambil suntik SQL 💉</td>
+    </tr>
+  </tbody>
+</table>
 
-> *“Gue gak login... gue `ssh` langsung ke kenyataan.”*
-
----
-
-## 💾 IDENTITAS RAHASIA
-
-| 🔧 Senjata Andalan | Vim                       |
-|--------------------|---------------------------|
-| ☕ Bahan Bakar     | Kopi item tanpa diskusi   |
-| 🧠 Mode Hidup     | `while(alive) { code(); coffee(); repeat(); }` |
-| 🛰️ Server         | `KONGALI1720-SERVER-NUSANTARA` |
-
-📂 Repo pribadi: `/etc/obsession/kongali1720`  
-💔 Crush: Masih `404`  
-👊 Musuh: Tanda titik koma `;`
-
----
-
-### 🌐 Bergabung & Kontak
-
-| Platform                | Info & Link                                                      |
-|------------------------|-----------------------------------------------------------------|
-| 📍 **PythonAnywhere**   | [pythonanywhere.com/user/kongali1720](https://www.pythonanywhere.com/user/kongali1720/) |
-| 📍 **AWS Console**      | [us-east-1.console.aws.amazon.com](https://us-east-1.console.aws.amazon.com/541170204401)  |
-| 📲 **Telegram**         | [@kongali1720](https://t.me/kongali1720)                       |
-| 📧 **Email**            | kongali1720@gmail.com                                           |
-| 🛰️ **Server**           | `KONGALI1720-SERVER-NUSANTARA`                                 |
+<p align="center"><em>“Gue gak login... gue <code>ssh</code> langsung ke kenyataan.”</em></p>
 
 ---
 
-## 🧠 SURVEI PARA CODER! ISI JANGAN MALU-MALU!
+<h2 align="center">💾 IDENTITAS RAHASIA</h2>
 
-Gue pengen tahu: **jam ngoding favorit loe kapan, Bro?**  
-Biar kita bisa atur waktu ngoprek bareng, bikin tools, atau bikin dunia digital jungkir balik.
+<table align="center">
+  <tr>
+    <td>🔧 <strong>Senjata Andalan</strong></td>
+    <td>Vim</td>
+  </tr>
+  <tr>
+    <td>☕ <strong>Bahan Bakar</strong></td>
+    <td>Kopi item tanpa diskusi</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Mode Hidup</strong></td>
+    <td><code>while(alive) { code(); coffee(); repeat(); }</code></td>
+  </tr>
+  <tr>
+    <td>🛰️ <strong>Server</strong></td>
+    <td><code>KONGALI1720-SERVER-NUSANTARA</code></td>
+  </tr>
+</table>
 
-👉 [**Klik di sini, isi survei**](https://docs.google.com/forms/d/e/1FAIpQLScPIGdpC3Z5ZRlQyCgFWVCgiyxyHbpUWh28IotDQZwQuwjtLQ/viewform?usp=header)
+<p align="center">
+  📂 Repo pribadi: <code>/etc/obsession/kongali1720</code><br>
+  💔 Crush: Masih <code>404</code><br>
+  👊 Musuh: Tanda titik koma <code>;</code>
+</p>
 
 ---
 
-## 🧠 MANIFESTO HACKER RINGAN
+<h2 align="center">🌐 Bergabung & Kontak</h2>
 
-> Kalau lo liat lampu router lo kedip terus, santai…  
-> **Gue lagi sapa lewat port terbuka.**
+<table align="center">
+  <tr>
+    <td>📍 <strong>PythonAnywhere</strong></td>
+    <td><a href="https://www.pythonanywhere.com/user/kongali1720/">pythonanywhere.com/user/kongali1720</a></td>
+  </tr>
+  <tr>
+    <td>📍 <strong>AWS Console</strong></td>
+    <td><a href="https://us-east-1.console.aws.amazon.com/541170204401">us-east-1.console.aws.amazon.com</a></td>
+  </tr>
+  <tr>
+    <td>📲 <strong>Telegram</strong></td>
+    <td><a href="https://t.me/kongali1720">@kongali1720</a></td>
+  </tr>
+  <tr>
+    <td>📧 <strong>Email</strong></td>
+    <td>kongali1720@gmail.com</td>
+  </tr>
+  <tr>
+    <td>🛰️ <strong>Server</strong></td>
+    <td><code>KONGALI1720-SERVER-NUSANTARA</code></td>
+  </tr>
+</table>
 
-> 💻 **STAY ROOTED. STAY ANONYMOUS. STAY AWESOME.**
 ---
+
+<h2 align="center">🧠 SURVEI PARA CODER! ISI JANGAN MALU-MALU!</h2>
+
+<p align="center">
+  Gue pengen tahu: <strong>jam ngoding favorit loe kapan, Bro?</strong><br>
+  Biar kita bisa atur waktu ngoprek bareng, bikin tools, atau bikin dunia digital jungkir balik.
+</p>
+
+<p align="center">
+  👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLScPIGdpC3Z5ZRlQyCgFWVCgiyxyHbpUWh28IotDQZwQuwjtLQ/viewform?usp=header"><strong>Klik di sini, isi survei</strong></a>
+</p>
+
+---
+
+<h2 align="center">🧠 MANIFESTO HACKER RINGAN</h2>
+
+<blockquote align="center">
+  Kalau lo liat lampu router lo kedip terus, santai…<br>
+  <strong>Gue lagi sapa lewat port terbuka.</strong><br><br>
+  💻 <strong>STAY ROOTED. STAY ANONYMOUS. STAY AWESOME.</strong>
+</blockquote>
+
+---
+
 <p align="center">
   <!-- Bendera Indonesia Bergerak -->
   <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
@@ -176,113 +254,177 @@ Biar kita bisa atur waktu ngoprek bareng, bikin tools, atau bikin dunia digital 
 
 ---
 
-## 🧠 TENTANG KAMI
-
-🦅 **KONGALI1720** bukan cuma komunitas — kami adalah barisan coder, peneliti, dan defender siber yang berdiri atas **nilai syariah, etika digital, dan cinta tanah air**.
-
-Di tengah dunia maya yang gaduh, kami hadir untuk menghadirkan cahaya.  
-Membangun **teknologi yang aman**, **berkah**, dan **berdaulat**, demi generasi yang tak hanya paham logika, tapi juga punya hati dan arah.
-
-📜 Mari bergabung...  
-Bersama kita bangun peradaban digital yang kuat — bukan hanya dengan skill, tapi juga dengan niat yang benar dan tujuan yang besar.
-
----
-
-# 💻 SPESIALISASI GUE — BUKAN SEKADAR KODE, INI AMUNISI PERANG DIGITAL
-
----
-
-💼 **SWIFT Testing & Bank Scripting (MT103/Barclays/UBS/DeutscheBank/HSBC)**  
-Gue gak cuma ngerti bank — gue bedah protokol transfernya sampe akar-akarnya.  
-📡 *MT103? Gue udah jadi kamus hidupnya.*  
-💰 *Barclays, UBS, HSBC? Gue debug dari port belakang.*
-
----
-
-🌐 **Terminal Bash & OSINT Syariah-MODE**  
-Kalau loe masih klik mouse buat riset, maaf — kita beda spesies.  
-🧕 Gue ngerun recon dengan Bash, tapi tetap dalam nilai-nilai syariah.  
-📖 *Ngoprek sambil dzikir? Bisa.*  
-🎯 *Narget sambil jaga adab? Wajib.*
-
----
-
-🔒 **Cybersecurity & Ethical Penetration Testing**  
-Gue gak hack buat show off.  
-Gue tembus sistem lo... biar loe sadar lubangnya.  
-🛡️ *Etikanya jalan. Exploitnya juga jalan.*
-
----
-
-🧬 **Crypto Forensics — Jejak Digital Gue Tangkap Sampe Ke Wallet Palsu**  
-Koin loe pikir aman?  
-🕵️ *Gue trace dari tx hash sampai node ghosting-nya.*  
-💣 *Buat gue, wallet address cuma petunjuk awal.*
-
----
-
-📜 **Mnemonic Wallet Generator & Chain Analysis**  
-Seed phrase loe?  
-🎲 Gue bisa generate ribuan, hunting balance, dan analyze chain flow kayak baca novel.  
-🔗 *Blockchain tuh transparan... kalau lo ngerti cara liatnya.*
-
----
-
-🚀 Ini bukan hobi. Ini bukan kerja.  
-🔥 INI MISI. INI JIHAD DIGITAL.
-
-
----
-
-## 🧩 Project Showcase
-
-| Project Name          | Description                                 | Stack                 |
-|-----------------------|---------------------------------------------|------------------------|
-| 🔐 xBalance           | ETH/BTC Scanner + Auto Balance Checker       | Python, Web3.py        |
-| 🕵️‍♂️ ReconGhost       | Automated Recon Tool for Red Teamers         | Bash, Nmap, Curl       |
-| 🧠 BrainWaveAI        | AI-powered attack vector suggestion engine   | Flask, OpenAI, React   |
-| 💳 KongPay            | Secure Booking System with Payment Gateway  | Python, HTML, CSS      |
-
----
-
-## 🚀 Stay Rooted. Stay Anonymous. Stay Awesome.
-
-Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok! 👋
-
----
-
-# 🔭 Current Focus
-
-- 🧪 Developing next-gen cyber defense tools using Python & Bash
-
-- 🌐 Building full-stack security dashboards with Flask & React
-
-- 🧰 Researching advanced obfuscation, anti-debugging, & steganography
-
-- 🎯 Targeting bug bounties and CTFs on HackTheBox / TryHackMe
-
-# 🧠 Certifications & Learning
-
-- 📜 Certified in Cybersecurity (ISC)² — In Progress
-
-- 🔒 Offensive Security Certified Professional (OSCP) — Studying
-
-- 🎓 TryHackMe: Top 5% Global
-
-- 📘 Currently Reading: "The Web Application Hacker’s Handbook"
-
----
-
-## 📬 Let's Connect
+<h2 align="center">🧠 TENTANG KAMI</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-kongali1720%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kongali1720/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://tryhackme.com/p/kongali1720"><img src="https://img.shields.io/badge/TryHackMe-Elite%20User-red?style=for-the-badge&logo=tryhackme" /></a>
-  <a href="https://kongali1720.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" /></a>
+🦅 <strong>KONGALI1720</strong> bukan cuma komunitas — kami adalah barisan coder, peneliti, dan defender siber yang berdiri atas <strong>nilai syariah, etika digital, dan cinta tanah air</strong>.
+</p>
+
+<p align="center">
+Di tengah dunia maya yang gaduh, kami hadir untuk menghadirkan cahaya.<br>
+Membangun <strong>teknologi yang aman</strong>, <strong>berkah</strong>, dan <strong>berdaulat</strong>, demi generasi yang tak hanya paham logika, tapi juga punya hati dan arah.
+</p>
+
+<p align="center">
+📜 Mari bergabung...<br>
+Bersama kita bangun peradaban digital yang kuat — bukan hanya dengan skill, tapi juga dengan niat yang benar dan tujuan yang besar.
 </p>
 
 ---
+
+<h1 align="center">💻 SPESIALISASI GUE — BUKAN SEKADAR KODE, INI AMUNISI PERANG DIGITAL</h1>
+
+---
+
+<div align="center">
+
+### 💼 <strong>SWIFT Testing & Bank Scripting (MT103/Barclays/UBS/DeutscheBank/HSBC)</strong>
+Gue gak cuma ngerti bank — gue bedah protokol transfernya sampe akar-akarnya.  
+📡 <em>MT103? Gue udah jadi kamus hidupnya.</em>  
+💰 <em>Barclays, UBS, HSBC? Gue debug dari port belakang.</em>
+
+---
+
+### 🌐 <strong>Terminal Bash & OSINT Syariah-MODE</strong>
+Kalau loe masih klik mouse buat riset, maaf — kita beda spesies.  
+🧕 Gue ngerun recon dengan Bash, tapi tetap dalam nilai-nilai syariah.  
+📖 <em>Ngoprek sambil dzikir? Bisa.</em>  
+🎯 <em>Narget sambil jaga adab? Wajib.</em>
+
+---
+
+### 🔒 <strong>Cybersecurity & Ethical Penetration Testing</strong>
+Gue gak hack buat show off.  
+Gue tembus sistem lo... biar loe sadar lubangnya.  
+🛡️ <em>Etikanya jalan. Exploitnya juga jalan.</em>
+
+---
+
+### 🧬 <strong>Crypto Forensics — Jejak Digital Gue Tangkap Sampe Ke Wallet Palsu</strong>
+Koin loe pikir aman?  
+🕵️ <em>Gue trace dari tx hash sampai node ghosting-nya.</em>  
+💣 <em>Buat gue, wallet address cuma petunjuk awal.</em>
+
+---
+
+### 📜 <strong>Mnemonic Wallet Generator & Chain Analysis</strong>
+Seed phrase loe?  
+🎲 Gue bisa generate ribuan, hunting balance, dan analyze chain flow kayak baca novel.  
+🔗 <em>Blockchain tuh transparan... kalau lo ngerti cara liatnya.</em>
+
+</div>
+
+---
+
+<h3 align="center">🚀 Ini bukan hobi. Ini bukan kerja. 🔥 INI MISI. INI JIHAD DIGITAL.</h3>
+
+---
+
+<h2 align="center">🧩 Project Showcase</h2>
+
+<table align="center">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td>🔐 xBalance</td>
+    <td>ETH/BTC Scanner + Auto Balance Checker</td>
+    <td>Python, Web3.py</td>
+  </tr>
+  <tr>
+    <td>🕵️‍♂️ ReconGhost</td>
+    <td>Automated Recon Tool for Red Teamers</td>
+    <td>Bash, Nmap, Curl</td>
+  </tr>
+  <tr>
+    <td>🧠 BrainWaveAI</td>
+    <td>AI-powered attack vector suggestion engine</td>
+    <td>Flask, OpenAI, React</td>
+  </tr>
+  <tr>
+    <td>💳 KongPay</td>
+    <td>Secure Booking System with Payment Gateway</td>
+    <td>Python, HTML, CSS</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Stay Rooted. Stay Anonymous. Stay Awesome.</h2>
+
+<p align="center">
+Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok! 👋
+</p>
+
+---
+
+<h1 align="center">🔭 Current Focus</h1>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>🧪 Developing next-gen cyber defense tools using Python & Bash</td>
+    <td>🌐 Building full-stack security dashboards with Flask & React</td>
+  </tr>
+  <tr>
+    <td>🧰 Researching advanced obfuscation, anti-debugging, & steganography</td>
+    <td>🎯 Targeting bug bounties and CTFs on HackTheBox / TryHackMe</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<h1 align="center">🧠 Certifications & Learning</h1>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>📜 Certified in Cybersecurity (ISC)²</td>
+    <td><em>In Progress</em></td>
+  </tr>
+  <tr>
+    <td>🔒 Offensive Security Certified Professional (OSCP)</td>
+    <td><em>Studying</em></td>
+  </tr>
+  <tr>
+    <td>🎓 TryHackMe</td>
+    <td><strong>Top 5% Global</strong></td>
+  </tr>
+  <tr>
+    <td>📘 Currently Reading</td>
+    <td><em>"The Web Application Hacker’s Handbook"</em></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<h1 align="center">📬 Let's Connect</h1>
+
+<p align="center">
+  <a href="mailto:kongali1720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kongali1720%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kongali1720/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://tryhackme.com/p/kongali1720">
+    <img src="https://img.shields.io/badge/TryHackMe-Elite%20User-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://kongali1720.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.animatedimages.org/cat-indonesia-flag-781.htm">
     <img src="https://www.animatedimages.org/data/media/781/animated-indonesia-flag-image-0010.gif" alt="animated-indonesia-flag-image-0010" />
@@ -299,210 +441,219 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
+<table align="center">
+  <tr>
+    <td align="center">
 
-## 🚀 Projects in the Lab
+<h1>👨‍💻 Kongali1720's Cyber Lab</h1>
 
-- 🔁 MT103 ➡️ Crypto Transaction Converter  
-- 🛡️ SQL Injection Playground for training  
-- 🕸️ Web portals with login bypass challenges (pentest simulation)  
-- 🏁 Personal Cyber Portal — soon to be launched  
+<h1>🚀 Projects in the Lab</h1>
 
----
-
-## 🏅 Prestige dan Sejarah
-
-✨ Pernah berkecimpung di dunia **SAP HCM Development**  
-✨ Terjun ke dunia ERP, modeling, dan analisis sistem  
-✨ Sering ngoprek HTML/CSS, backend, ORM, dan ngebut di Terminal  
-✨ Nggak takut bug, malah cari bug buat disayang 🐞💕
-
----
-
-## 🛠️ Tech Stack Badges
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Metasploit-252525?style=for-the-badge">
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=pip+install+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt" alt="Typing Animation">
+<p style="font-size:18px; line-height:1.6; margin:0;">
+🔁 MT103 ➡️ Crypto Transaction Converter<br>
+🛡️ SQL Injection Playground for training<br>
+🕸️ Web portals with login bypass challenges (pentest simulation)<br>
+🏁 Personal Cyber Portal — soon to be launched
 </p>
-
----
-
-## 🚀 LIVE HACKING SIMULATION
-
-```bash
-$ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
-```
-
-```
-🚀 Mon May 27 03:14:07 WIB: Bypassing Firewall... [DONE]
-🚀 Mon May 27 03:14:08 WIB: Injecting Epic Stats... [SUCCESS]
-🚀 Mon May 27 03:14:09 WIB: Drinking Coffee... [INFINITE LOOP]
-```
----
-
-<div align="center">
-  <h2>🚀 REAL-TIME ACTIVITY</h2>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kongali1720&theme=dark" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Jokes sejajar -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique1" alt="Joke 1" />
-    <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique2" alt="Joke 2" />
-    <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique3" alt="Joke 3" />
-  </div>
-</div>
-
----
-
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 12px;">💡 Julukan Sesuai Order yang Dikerjakan</h3>
-
-<table align="center" style="width: 80%; border-collapse: collapse; font-family: 'Courier New', Courier, monospace; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
-  <thead style="background-color: #222; color: white; font-weight: bold; font-size: 1.1em;">
-    <!-- Header bisa ditambah kalau mau -->
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🛠️ Arsitek Dunia Maya</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🧠 Neural Scripter</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🪲 Penjinak Bug</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🚀 Quantum Coder</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🧙‍♂️ Master Kode Siluman</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🧳 Syntax Nomad</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">📟 The Terminal Guru — Sang Maestro di CLI</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🧬 Node Invoker — Pemanggil Kekuatan Node.js Misterius</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">👑 Raja Debugging dari Selatan</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">📡 Echo Messiah</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">😎 Hacker Tapi Santai</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🌑 Bayangan Kompilasi</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">☕ Ngoding Sambil Ngopi</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🚫 404 Identity Not Found</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🧙‍♀️ Pawang Stack Overflow</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🕵️‍♂️ Silent Packet Sniffer</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">💉 Si Tukang Inject Berhati Lembut</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🌀 Voidwalker of the Shell</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">⚗️ Cyber Alkemis</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🩸 Shadow of Root</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🦄 Cyber Centaur</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🔮 Pawang Digital</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🥷 Ngoding Ninja</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">🎧 The Bash Whisperer</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">🤠 KodeRanger</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"></td>
-    </tr>
-  </tbody>
+  </tr>
 </table>
 
 ---
 
-<p align="center">
-  <strong>💡"I hack with ❤️, and patch with 🍰."</strong>
+<table align="center">
+  <tr>
+    <td align="center">
+
+<h1>🏅 Prestige dan Sejarah</h1>
+
+<p style="font-size:18px; line-height:1.6; margin:0;">
+✨ Pernah berkecimpung di dunia <b>SAP HCM Development</b><br>
+✨ Terjun ke dunia ERP, modeling, dan analisis sistem<br>
+✨ Sering ngoprek HTML/CSS, backend, ORM, dan ngebut di Terminal<br>
+✨ Nggak takut bug, malah cari bug buat disayang 🐞💕
 </p>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <strong style="font-size: 2em;">🚀 REAL-TIME CYBER DIVISION ACTIVITY</strong><br/>
-  <em>(100% EPIC!)</em>
-</p>
+<h1 align="center">🛠️ Tech Stack Badges</h1>
 
-<p align="center">
-  <a href="https://github.com/kongali1720">
-    <img src="https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi" alt="Hacking Simulation" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200" alt="Hacking GIF" />
-</p>
+<div align="center" style="line-height: 2;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Metasploit-252525?style=for-the-badge" alt="Metasploit Badge" style="margin: 5px;">
+</div>
 
 ---
 
-<h2 align="center">⚒️ Skill de la Brutal</h2>
+<div align="center" style="display: inline-block; padding: 15px 30px; border: 3px solid #FF0000; border-radius: 15px; background-color: rgba(255,0,0,0.1);">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=450&lines=pip+install+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt"
+    alt="Typing Animation"
+    style="filter: drop-shadow(2px 2px 4px #8B0000);"
+  >
+</div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; max-width: 800px; margin: auto;">
+---
 
-  <div style="min-width: 250px; text-align: left;">
-    <p>💀 <b>Ethical Hacking</b>, Social Engineering, Reconnaissance</p>
-    <p>🧠 <b>Coding Addict:</b> Python, PHP, Bash, SQL, Clang, JavaScript</p>
-  </div>
+<div align="center">
 
-  <div style="min-width: 250px; text-align: left;">
-    <p>💻 <b>Full-stack Magic:</b> Flask, Bootstrap, Express.js, Angular, Spring</p>
-    <p>🔐 <b>Pentest Tools:</b> sqlmap, nmap, Burp Suite, Metasploit, Wireshark</p>
-  </div>
+<h1>🚀 LIVE HACKING SIMULATION</h1>
 
-  <div style="min-width: 250px; text-align: left;">
-    <p>🔄 <b>Automation & Parsing:</b> Linux + JSON + BeautifulSoup + Shell seduction</p>
-  </div>
+<pre style="text-align: center; font-size: 16px; background-color: #1e1e1e; color: #00ff00; padding: 15px; border-radius: 10px; display: inline-block;">
+$ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
+</pre>
+
+<pre style="text-align: center; font-size: 16px; background-color: #222; color: #eee; padding: 15px; border-radius: 10px; display: inline-block; margin-top: 10px;">
+🚀 Mon May 27 03:14:07 WIB: Bypassing Firewall... [DONE]
+🚀 Mon May 27 03:14:08 WIB: Injecting Epic Stats... [SUCCESS]
+🚀 Mon May 27 03:14:09 WIB: Drinking Coffee... [INFINITE LOOP]
+</pre>
+
+<hr style="width: 60%; margin: 40px auto;" />
+
+<h1>🚀 REAL-TIME ACTIVITY</h1>
+
+<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://streak-stats.demolab.com?user=kongali1720&theme=dark" alt="GitHub Streak" style="margin: 20px 0; max-width: 100%;" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique1" alt="Joke 1" style="margin: 0 10px;"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique2" alt="Joke 2" style="margin: 0 10px;"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique3" alt="Joke 3" style="margin: 0 10px;"/>
 
 </div>
 
+---
+
+<h1 align="center"> 💡 Julukan Sesuai Order yang Dikerjakan </h1>
+
+<table align="center">
+  <tr>
+    <td>🛠️ Arsitek Dunia Maya</td>
+    <td>🧠 Neural Scripter</td>
+  </tr>
+  <tr>
+    <td>🪲 Penjinak Bug</td>
+    <td>🚀 Quantum Coder</td>
+  </tr>
+  <tr>
+    <td>🧙‍♂️ Master Kode Siluman</td>
+    <td>🧳 Syntax Nomad</td>
+  </tr>
+  <tr>
+    <td>📟 The Terminal Guru</td>
+    <td>🧬 Node Invoker</td>
+  </tr>
+  <tr>
+    <td>👑 Raja Debugging dari Selatan</td>
+    <td>📡 Echo Messiah</td>
+  </tr>
+  <tr>
+    <td>😎 Hacker Tapi Santai</td>
+    <td>🌑 Bayangan Kompilasi</td>
+  </tr>
+  <tr>
+    <td>☕ Ngoding Sambil Ngopi</td>
+    <td>🚫 404 Identity Not Found</td>
+  </tr>
+  <tr>
+    <td>🧙‍♀️ Pawang Stack Overflow</td>
+    <td>🕵️‍♂️ Silent Packet Sniffer</td>
+  </tr>
+  <tr>
+    <td>💉 Si Tukang Inject Berhati Lembut</td>
+    <td>🌀 Voidwalker of the Shell</td>
+  </tr>
+  <tr>
+    <td>⚗️ Cyber Alkemis</td>
+    <td>🩸 Shadow of Root</td>
+  </tr>
+  <tr>
+    <td>🦄 Cyber Centaur</td>
+    <td>🔮 Pawang Digital</td>
+  </tr>
+  <tr>
+    <td>🥷 Ngoding Ninja</td>
+    <td>🎧 The Bash Whisperer</td>
+  </tr>
+  <tr>
+    <td>🤠 KodeRanger</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-```bash
-🧃 I like:    JSON, Linux, MySQL, WebSocket, Terminal
-👠 I love:    Clang, Python3, Bash-scripting, and dark themes
-🥤 My drink:  Cappuccino + Robusta Vanilla Latte
-```
+<h1 align="center"><strong>💡"I hack with ❤️, and patch with 🍰."</strong></h1>
+
+<div align="center">
+
+<strong style="font-size: 2em;">🚀 REAL-TIME CYBER DIVISION ACTIVITY</strong><br/>
+<em>(100% EPIC!)</em>
+
+<br/><br/>
+
+<a href="https://github.com/kongali1720" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi" alt="Hacking Simulation" />
+</a>
+
+<hr style="width: 60%; margin: 30px auto;" />
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200" alt="Hacking GIF" style="margin-top: 15px;"/>
+
+</div>
 
 ---
 
-<!-- 🔥 GITHUB STATS - ULTIMATE TOP LEVEL MODE -->
-<h2 align="center">🚀 TOP LEVEL GITHUB INTEL</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kongali1720&show_icons=true&theme=radical&count_private=true&hide=issues&hide_border=false&rank_icon=github&custom_title=🔥%20HACKER%20PROFILE%20STATS" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongali1720&layout=compact&theme=radical&hide_border=false&langs_count=10&custom_title=💻%20TOP%20LANGUAGES" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongali1720&theme=react-dark&hide_border=true&area=true&custom_title=🧠%20ACTIVITY%20INTELLIGENCE" width="90%" />
-</p>
-
-<!-- 🎖️ EXTRA BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kongali1720&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/badge/💡-Learning%20Everyday-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠-Code%20Warrior-brightgreen?style=flat-square" />
-</p>
-
-<!-- 🧨 CUSTOM QUOTE -->
-<h4 align="center">💬 "I don't just write code. I design digital attacks and fortify cyber defenses." 🔐</h4>
+<table align="center" style="width: 70%; margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <td colspan="2" style="padding: 15px; text-align: center;">
+      <h1 style="margin:0;">⚒️ Skill de la Brutal</h1>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <p style="margin: 2px 0;"><b>💀 Ethical Hacking</b></p>
+        <p style="margin: 2px 0;">Social Engineering</p>
+        <p style="margin: 2px 0;">Reconnaissance</p>
+      </div>
+    </td>
+    <td style="padding: 15px; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <p style="margin: 2px 0;"><b>💾 SQLMap</b></p>
+        <p style="margin: 2px 0;">Burp Suite</p>
+        <p style="margin: 2px 0;">Wireshark</p>
+        <p style="margin: 2px 0;">Hydra</p>
+        <p style="margin: 2px 0;">Nmap</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <p style="margin: 2px 0;"><b>🧪 Penetration Testing</b></p>
+        <p style="margin: 2px 0;">HackerOne Red Team</p>
+      </div>
+    </td>
+    <td style="padding: 15px; vertical-align: middle;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <p style="margin: 2px 0;"><b>🧬 Full-Stack Cyber Developer</b></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -530,7 +681,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-<h3 align="center">🚀 Skill Matrix 2024</h3>
+<h1 align="center">🚀 Skill Matrix 2024</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,java,react,next,vue,nodejs,express,nestjs,django,flask,spring,aws,gcp,azure,docker,kubernetes,git,github,gitlab,linux,bash,mysql,postgres,mongodb,redis,grafana,prometheus&perline=15" width="90%" />
@@ -576,30 +727,30 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-<h3 align="center"> 🚀 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h3>
+<h1 align="center"> 🚀 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h1>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kongali1720&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" width="100%"/> </p>
 
 ---
 
-<h3 align="center"> 🚀 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h3>
+<h1 align="center"> 🚀 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h1>
 <p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/yourprofile"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
 
 </p>
 
 ---
-<h2 align="center">☕ DItunggu Traktiran Kopi ama Nasigorengnya ya Bro...</h2>
+<h1 align="center">☕ DItunggu Traktiran Kopi ama Nasigorengnya ya Bro...</h1>
 
 <div align="center">
 
-# 💡 Dukung aku agar tetap waras menulis script tengah malam...
+<h1 align="center"> 💡 Dukung aku agar tetap waras menulis script tengah malam...</h1>
 
-[Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)  
+<h1 align="center">[Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)</h1>
 Support with ☕ so I can buy 🍜 and keep being 🧠!
 
 ---
 
-# ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️
+<h1 align="center"> ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️</h1>
 
 | Item        | Keterangan |
 |:------------|:-----------|
@@ -607,7 +758,7 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
 | 📡 Status   | Butuh Dukungan |
 | 🧠 Response | Buka Hati + Klik Link = Satu Senyum Baru |
 
-> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.
+<h2 align="center"> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.</h2>
 
 <p align="center">
   <a href="https://mydonation4ds.github.io/" target="_blank">
@@ -644,7 +795,7 @@ Not with swords or shields, but with laughter, innocence, and unstoppable spirit
 ⚡ You can be part of their journey.  
 Support doesn’t always mean grand gestures — sometimes, it starts with a click, a share, a donation, or even a kind word.
 
-🌈 Together, we can create a world where every child feels seen, valued, and loved — just as they are.
+🧬 Together, we can create a world where every child feels seen, valued, and loved — just as they are.
 
 🫶 Be the reason a child smiles today.  
 Click the link. Spread the word. Stand beside them.
