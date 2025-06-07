@@ -57,7 +57,7 @@
       <td><a href="https://kongali1720.github.io/awesome-ai-indonesia.html" target="_blank">🔥Awesome AI Indonesia🔥</a></td>
     </tr>
     <tr>
-      <td>💖 Down Syndorom</td>
+      <td>💖 Down Syndrome</td>
       <td><a href="https://kongali1720.github.io" target="_blank">🇮🇩View Live Website🇮🇩</a></td>
     </tr>
   </tbody>
