@@ -112,17 +112,104 @@
 
 ---
 
-<h1 align="center">💥 SIAPA GUE? — <strong>KONGALI1720</strong></h1>
+<h1 align="center">💥 Tentang Saya? — <strong>KONGALI1720</strong></h1>
 
 <p align="center">
 🚨 <em>Kode, kopi, dan konsentrasi. Sisanya urusan nanti.</em>
 </p>
 
 <p align="center">
-Gue <strong>Kongali1720</strong> — si developer terminal sejati.<br>
-Darah gue bukan merah putih doang, tapi juga penuh baris-baris kode dan log error.<br>
+Aku <strong>Kongali1720</strong> — si developer terminal sejati.<br>
+Darahku bukan merah putih doang, tapi juga penuh baris-baris kode dan log error.<br>
 Kalau udah buka Vim, dunia bisa kiamat juga bodo amat 😎
 </p>
+
+---
+
+<h3 align="center">🚀 Tentang Aku</h3>
+
+<p align="center">
+Aku adalah seorang <strong>developer terminal sejati</strong> dari Indonesia yang fokus pada dunia <strong>automatisasi, keamanan siber, dan eksplorasi teknologi open-source</strong>.<br><br>
+🔧 Ngulik <em>Bash</em> dan <em>Python</em> untuk scripting & tools<br>
+🐧 Oprek Linux, Raspberry Pi, dan sistem operasi ringan lainnya<br>
+🧪 Bikin skrip aneh untuk mempercepat kerja & belajar<br>
+🛡️ Tertarik mendalami cybersecurity, ethical hacking, dan bug bounty
+</p>
+
+---
+
+<h3 align="center">🧩 Proyek Favorit</h3>
+
+<p align="center">
+🔹 <strong><a href="https://github.com/kongali1720/awesome-ai-indonesia">Awesome AI Indonesia</a></strong><br>
+Kumpulan alat, library & sumber AI lokal untuk pembelajaran.
+</p>
+
+<p align="center">
+🔹 <strong><a href="https://github.com/kongali1720/xBalance-master">xBalance</a></strong><br>
+Alat Python untuk cek saldo crypto otomatis (BTC, ETH).
+</p>
+
+<p align="center">
+🔹 <strong><a href="https://github.com/kongali1720/live_hacking.html">Live Hacking Page</a></strong><br>
+Halaman HTML bergaya hacking untuk demo edukatif.
+</p>
+
+<p align="center">
+🔹 <strong><a href="https://github.com/kongali1720/bny-bro-transfer.html">BNY Transfer Sim</a></strong><br>
+Simulasi antarmuka transfer bank gaya terminal.
+</p>
+
+
+---
+
+<h3 align="center">🏷️ Teknologi & Tools yang Aku Pakai</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=HackTheBox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nano-4E9A06?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-6F2D0D?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+
+
+---
+
+<h3 align="center">🌐 Temui Aku di</h3>
+
+<p align="center">
+  <a href="https://kongali1720.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://replit.com/@kongali1720"><img src="https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white" /></a>
+  <!-- Optional LinkedIn jika punya
+  <a href="https://linkedin.com/in/kongali1720"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  -->
+</p>
+
+---
+
+<p align="center">
+<em>🎯 Terus belajar. Terus berbagi.<br>
+Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
+</p>
+
+
 
 ---
 
