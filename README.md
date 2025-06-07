@@ -26,6 +26,8 @@
   Made with 💻 + ☕ by Kongali1720
 </p>
 
+<h2 align="center">🌐 Visit the Website</h2>
+
 <table align="center" style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
@@ -54,13 +56,17 @@
       <td>🌟 Awesome AI</td>
       <td><a href="https://kongali1720.github.io/awesome-ai-indonesia.html" target="_blank">🔥Awesome AI Indonesia🔥</a></td>
     </tr>
+    <tr>
+      <td>💖 Down Syndorom</td>
+      <td><a href="https://kongali1720.github.io" target="_blank">🇮🇩View Live Website🇮🇩</a></td>
+    </tr>
   </tbody>
 </table>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="950"/>
 </p>
 
 <p align="center">
