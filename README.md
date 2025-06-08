@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F733&background=000000&width=800&center=true&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh+(Indonesia);Hello+(English);こんにちは+(Konnichiwa)+from+Japan;Здравствуйте+(Zdravstvuyte)+from+Russia;안녕하세요+(Annyeonghaseyo)+from+South+Korea;你好+(Nǐ+Hǎo)+from+China;Hola+(Hola)+from+Spain;Bonjour+(Bonjour)+from+France;Guten+Tag+from+Germany;Salve+from+Italy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F733&background=000000&width=800&center=true&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh+(Indonesia);Hello+(English);こんにちは+(Konnichiwa)+from+Japan;Здравствуйте+(Zdravstvuyte)+from+Russia;안녕하세요+(Annyeonghaseyo)+from+South+Korea;你好+(Nǐ+Hǎo)+from+China;Hola+(Hola)+from+Spain;Bonjour+(Bonjour)+from+France;Guten+Tag+from+Germany;Salve+from+Italy" alt="Typing SVG" />
   </a>
 </p>
 
