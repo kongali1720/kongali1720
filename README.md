@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KONGALI1720-Where%20imagination%20meets%20implementation!-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="KONGALI1720 Badge">
+</p>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="40" />
@@ -23,7 +28,10 @@
 ---
 
 <p align="center">
-  Made with 💻 + ☕ by Kongali1720
+  <!-- Tulisan Berjalan -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&width=600&center=true&vCenter=true&lines=Where+imagination+meets+implementation!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -31,8 +39,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F733&background=000000&width=800&center=true&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh+(Indonesia);Hello+(English);こんにちは+(Konnichiwa)+from+Japan;Здравствуйте+(Zdravstvuyte)+from+Russia;안녕하세요+(Annyeonghaseyo)+from+South+Korea;你好+(Nǐ+Hǎo)+from+China;Hola+(Hola)+from+Spain;Bonjour+(Bonjour)+from+France;Guten+Tag+from+Germany;Salve+from+Italy" alt="Typing SVG" />
   </a>
 </p>
-
-
 
 <h2 align="center">🌐 Visit the Website</h2>
 
