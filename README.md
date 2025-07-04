@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/kong-wallet.png" width="200" alt="KONG WALLET Logo"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/KONGALI1720-Where%20imagination%20meets%20implementation!-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="KONGALI1720 Badge">
