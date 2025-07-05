@@ -10,8 +10,10 @@
   <br>
   💡 Coding with coffee and passion… always on!
 </p>
+
 <p align="center" style="color: #facc15; font-weight: bold; font-size: 20px;">
-  🦍🦍🦍🦍 #Kongali1720 #Gratitude #CyberJourney 🦍🦍🦍🦍
+  🦍⚔️🦍 #Kongali1720 #Gratitude #CyberJourney 🦍⚔️🦍
+</p>
 
 <p align="center">
   <a href="https://younext.cloud" target="_blank">
