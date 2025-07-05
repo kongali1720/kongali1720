@@ -1,39 +1,71 @@
-<div align="center">
-  <h1>
-    I am <a href="https://younext.cloud" target="_blank" style="color: blue;">younext</a> and you?
-  </h1>
+<p align="center">
+  <a href="https://younext.cloud" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=00FFF0&center=true&vCenter=true&width=800&lines=💠+YOUNEXT+💠;🌐+INNOVATION+IN+YOUR+HANDS+🌐" alt="YOUNEXT Glowing Animated Text" />
+  </a>
+</p>
 
-  <p>
+<p align="center">
+  <a href="https://younext.cloud" target="_blank">
+    🔗 <strong>https://younext.cloud</strong>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/kong-wallet.png" width="200" alt="KONG WALLET Logo"/>
+</p>
+
+<p align="center" style="margin-top: -10px;">
+  👉 <a href="https://kongali1720.github.io/kong-wallet" target="_blank">
+    https://kongali1720.github.io/kong-wallet
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/KONGALI1720-Where%20imagination%20meets%20implementation!-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="KONGALI1720 Badge">
 </p>
 
+---
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JCB_logo.svg" alt="JCB" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/UnionPay_logo.svg" alt="UnionPay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="Bitcoin" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg" alt="Google Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg" alt="Samsung Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Alipay_logo_%282020%29.svg" alt="AliPay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Royal_Bank_of_Scotland_logo.svg" alt="Royal Bank of Scotland" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Deutsche_Bank_logo.svg" alt="Deutsche Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Barclays_Bank_%28Deutschland%29_logo.svg" alt="Barclays Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg" alt="HSBC PLC" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/UBS_Logo.png" alt="UBS Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg" alt="Bank Mandiri" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/BCA_Digital_logo.svg" alt="Bank BCA" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg" alt="Bank BRI" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/af/WeChat_logo.svg" alt="WeChat Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" height="40" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JCB_logo.svg" alt="JCB" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/UnionPay_logo.svg" alt="UnionPay" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="Bitcoin" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg" alt="Google Pay" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg" alt="Samsung Pay" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Alipay_logo_%282020%29.svg" alt="AliPay" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Royal_Bank_of_Scotland_logo.svg" alt="Royal Bank of Scotland" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Deutsche_Bank_logo.svg" alt="Deutsche Bank" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Barclays_Bank_%28Deutschland%29_logo.svg" alt="Barclays Bank" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg" alt="HSBC PLC" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/UBS_Logo.png" alt="UBS Bank" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg" alt="Bank Mandiri" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/BCA_Digital_logo.svg" alt="Bank BCA" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg" alt="Bank BRI" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/af/WeChat_logo.svg" alt="WeChat Pay" height="10" /></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" height="10" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
@@ -826,21 +858,20 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 <hr style="width: 60%; margin: 40px auto;" />
 
-<h1>🚀 REAL-TIME ACTIVITY</h1>
+<h2 align="center">🚀 REAL-TIME ACTIVITY</h2>
 
-<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-  <img src="https://streak-stats.demolab.com?user=kongali1720&theme=dark" alt="GitHub Streak" style="margin: 20px 0; max-width: 100%;" />
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=kongali1720&theme=dark&hide_border=true" alt="GitHub Streak" width="450" />
+  </a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique1" width="150" alt="Joke 1" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique2" width="150" alt="Joke 2" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique3" width="150" alt="Joke 3" />
+</p>
 
-<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique1" alt="Joke 1" style="margin: 0 10px;"/>
-<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique2" alt="Joke 2" style="margin: 0 10px;"/>
-<img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique3" alt="Joke 3" style="margin: 0 10px;"/>
-
-</div>
-
----
 
 <h1 align="center"> 💡 Julukan Sesuai Order yang Dikerjakan </h1>
 
@@ -1051,8 +1082,8 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 <h1 align="center"> 💡 Dukung aku agar tetap waras menulis script tengah malam...</h1>
 
-<h1 align="center">[Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)</h1>
-Support with ☕ so I can buy 🍜 and keep being 🧠!
+[☕ Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)
+
 
 ---
 
@@ -1123,25 +1154,3 @@ _"Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi j
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JCB_logo.svg" alt="JCB" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/UnionPay_logo.svg" alt="UnionPay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="Bitcoin" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg" alt="Google Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg" alt="Samsung Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Alipay_logo_%282020%29.svg" alt="AliPay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Royal_Bank_of_Scotland_logo.svg" alt="Royal Bank of Scotland" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Deutsche_Bank_logo.svg" alt="Deutsche Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Barclays_Bank_%28Deutschland%29_logo.svg" alt="Barclays Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg" alt="HSBC PLC" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/UBS_Logo.png" alt="UBS Bank" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg" alt="Bank Mandiri" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/BCA_Digital_logo.svg" alt="Bank BCA" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg" alt="Bank BRI" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/af/WeChat_logo.svg" alt="WeChat Pay" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" height="40" />
-</p>
