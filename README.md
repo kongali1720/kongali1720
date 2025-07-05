@@ -29,34 +29,34 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JCB_logo.svg" alt="JCB" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="MasterCard" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JCB_logo.svg" alt="JCB" height="5" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/UnionPay_logo.svg" alt="UnionPay" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="Bitcoin" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg" alt="Google Pay" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/UnionPay_logo.svg" alt="UnionPay" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="Bitcoin" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg" alt="Google Pay" height="5" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg" alt="Samsung Pay" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Alipay_logo_%282020%29.svg" alt="AliPay" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg" alt="Samsung Pay" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Alipay_logo_%282020%29.svg" alt="AliPay" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe" height="5" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Royal_Bank_of_Scotland_logo.svg" alt="Royal Bank of Scotland" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Deutsche_Bank_logo.svg" alt="Deutsche Bank" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Barclays_Bank_%28Deutschland%29_logo.svg" alt="Barclays Bank" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Royal_Bank_of_Scotland_logo.svg" alt="Royal Bank of Scotland" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Deutsche_Bank_logo.svg" alt="Deutsche Bank" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Barclays_Bank_%28Deutschland%29_logo.svg" alt="Barclays Bank" height="5" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg" alt="HSBC PLC" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/UBS_Logo.png" alt="UBS Bank" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg" alt="Bank Mandiri" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg" alt="HSBC PLC" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/UBS_Logo.png" alt="UBS Bank" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg" alt="Bank Mandiri" height="5" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/BCA_Digital_logo.svg" alt="Bank BCA" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg" alt="Bank BRI" height="10" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/af/WeChat_logo.svg" alt="WeChat Pay" height="10" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/BCA_Digital_logo.svg" alt="Bank BCA" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg" alt="Bank BRI" height="5" /></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/af/WeChat_logo.svg" alt="WeChat Pay" height="5" /></td>
     </tr>
     <tr>
       <td align="center" colspan="3">
