@@ -122,27 +122,29 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="600" />
+  <img src="https://raw.githubusercontent.com/kongali1720/dev-roadmap-indonesia/main/Dev-Roadmap-Indonesia.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kongali1720/awesome-ai-tools-indonesia/main/awesome-ai-tools.png" alt="Awesome AI Tools Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/kongali1720/awesome-ai-tools-indonesia/main/awesome-ai-tools.png" alt="Awesome AI Tools Banner" width="400" />
 </p>
 
 
 ---
-<h1 align="center">👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡</h1>
 
-<h2 align="center">⚔️ 黑客精灵 | プログラミングの鬼才 | 终结者コーダー 🀄</h2>
+<h3 align="center">👑 Kongali1720 — Ngoding Sambil Ngopi dan Sebat 🌐⚡</h3>
+
+<h3 align="center">⚔️ 黑客精灵 | プログラミングの鬼才 | 终结者コーダー 🀄</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kongali1720%20👨‍💻&fontSize=120&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20🎧%0A%7C%20Code%20Wizard%20⚔️%0A%7C%20IT%20Programmer%20🟢🟢🟢🟢&descAlign=center&descSize=20&descAlignY=10" alt="Kongali1720 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kongali1720%20👨‍💻&fontSize=60&fontAlign=center&textColor=00FF00&desc=The%20Cyber%20Whisperer%20🎧%0A%7C%20Code%20Wizard%20⚔️%0A%7C%20IT%20Programmer%20🟢🟢🟢🟢&descAlign=center&descSize=14&descAlignY=10" alt="Kongali1720 Banner" />
 </p>
 
-![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=🀄+KONGALI1720+-+TERMINAL+BUTCHER;🎧+SHARING+Knowledge+for+Everyone;🔥+NGODING+SEPERTI+NERAKA,+BUG+GAK+DIAMPUNI;🔁+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🪨+System+Cracked.+Protocol+404+Active...)
+
+![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=🀄+KONGALI1720+-+TERMINAL+BUTCHER;🎧+SHARING+Knowledge+for+Everyone;🔥+NGODING+SEPERTI+MENAKUTKAN,+BUG+GAK+DIAMPUNI;🔁+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🪨+System+Cracked.+Protocol+404+Active...)
 
 
-<h1 align="center">🤖 About Me — The Code Alchemist</h1>
+<h3 align="center">🤖 About Me — The Code Alchemist</h3>
 
 <p align="center">
   👋 Hey there, future tech legends!
@@ -175,7 +177,7 @@
 
 ---
 
-<h2 align="center">🚀 Tentang Aku 💥</h2>
+<h3 align="center"> ☀️ Tentang Aku 💥</h3>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" style="text-align: center; border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
   <tr>
@@ -205,7 +207,7 @@
 
 ---
 
-<h1 align="center">🎯 Optimal Management Structure</h1>
+<h3 align="center">🎯 Optimal Management Structure</h3>
 <div align="center">
 <h2 align="center">👥 Core Team Structure</h2>
 
@@ -255,7 +257,7 @@
 ## 🎓 Advisory Board
 
 • 🏛️ Banking Industry Veterans – Strategic guidance  
-• 🚀 Fintech Entrepreneurs – Market insights  
+• 💡 Fintech Entrepreneurs – Market insights  
 • ⚖️ Regulatory Experts – Compliance navigation  
 • 💡 Technology Leaders – Innovation direction  
 
@@ -289,7 +291,7 @@
 
 ---
 
-## 🚀 Collaboration Framework
+## Collaboration Framework
 
 ### 💰 Revenue Sharing Models
 
@@ -459,7 +461,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🔥 JADWAL PERANG VERSI GUE</h2>
+<h3 align="center">🔥 JADWAL TEMPUR VERSI GUE</h3>
 
 <table align="center" style="margin: 0 auto; text-align: center;">
   <tbody>
@@ -486,7 +488,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">💾 IDENTITAS RAHASIA</h2>
+<h3 align="center">💾 IDENTITAS RAHASIA</h3>
 
 <table align="center">
   <tr>
@@ -515,7 +517,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🌐 Bergabung & Kontak</h2>
+<h3 align="center">🌐 Bergabung & Kontak</h3>
 
 <table align="center">
   <tr>
@@ -542,7 +544,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🧠 SURVEI PARA CODER! ISI JANGAN MALU-MALU!</h2>
+<h3 align="center">🧠 SURVEI PARA CODER! ISI JANGAN MALU-MALU!</h3>
 
 <p align="center">
   Gue pengen tahu: <strong>jam ngoding favorit loe kapan, Bro?</strong><br>
@@ -555,7 +557,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🧠 MANIFESTO HACKER RINGAN</h2>
+<h3 align="center">🧠 MANIFESTO HACKER RINGAN</h3>
 
 <blockquote align="center">
   Kalau lo liat lampu router lo kedip terus, santai…<br>
@@ -587,7 +589,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🧠 TENTANG KAMI</h2>
+<h3 align="center">🧠 TENTANG KAMI</h3>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" style="width: 90%; max-width: 800px; text-align: center; border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px;">
   <tr>
@@ -658,7 +660,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🧩 Project Showcase</h2>
+<h3 align="center">🧩 Project Showcase</h3>
 
 <table align="center">
   <tr>
@@ -690,7 +692,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h2 align="center">🚀 Stay Rooted. Stay Anonymous. Stay Awesome.</h2>
+<h3 align="center">🚀 Stay Rooted. Stay Anonymous. Stay Awesome.</h3>
 
 <p align="center">
 Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok! 👋
@@ -698,7 +700,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-<h1 align="center">🔭 Current Focus</h1>
+<h3 align="center">🔭 Current Focus</h3>
 
 <div align="center">
 
@@ -717,7 +719,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-<h1 align="center">🧠 Certifications & Learning</h1>
+<h3 align="center">🧠 Certifications & Learning</h3>
 
 <div align="center">
 
@@ -744,7 +746,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-<h1 align="center">📬 Let's Connect</h1>
+<h3 align="center">📬 Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:kongali1720@gmail.com">
@@ -783,9 +785,9 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
   <tr>
     <td align="center">
 
-<h1>👨‍💻 Kongali1720's Cyber Lab</h1>
+<h3>👨‍💻 Kongali1720's Cyber Lab</h3>
 
-<h1>🚀 Projects in the Lab</h1>
+<h3>🚀 Projects in the Lab</h3>
 
 <p style="font-size:18px; line-height:1.6; margin:0;">
 🔁 MT103 ➡️ Crypto Transaction Converter<br>
@@ -802,7 +804,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
   <tr>
     <td align="center">
 
-<h1>🏅 Prestige dan Sejarah</h1>
+<h3>🏅 Prestige dan Sejarah</h3>
 
 <p style="font-size:18px; line-height:1.6; margin:0;">
 ✨ Pernah berkecimpung di dunia <b>SAP HCM Development</b><br>
@@ -815,7 +817,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-<h1 align="center">🛠️ Tech Stack Badges</h1>
+<h3 align="center">🛠️ Tech Stack Badges</h3>
 
 <div align="center" style="line-height: 2;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;">
@@ -844,7 +846,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 <div align="center">
 
-<h1>🚀 LIVE HACKING SIMULATION</h1>
+<h3>🚀 LIVE HACKING SIMULATION</h3>
 
 <pre style="text-align: center; font-size: 16px; background-color: #1e1e1e; color: #00ff00; padding: 15px; border-radius: 10px; display: inline-block;">
 $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
@@ -858,7 +860,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 <hr style="width: 60%; margin: 40px auto;" />
 
-<h2 align="center">🚀 REAL-TIME ACTIVITY</h2>
+<h3 align="center">🚀 REAL-TIME ACTIVITY</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
@@ -866,14 +868,9 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique1" width="150" alt="Joke 1" />
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique2" width="150" alt="Joke 2" />
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&r=unique3" width="150" alt="Joke 3" />
-</p>
+---
 
-
-<h1 align="center"> 💡 Julukan Sesuai Order yang Dikerjakan </h1>
+<h3 align="center"> 💡 Julukan Sesuai Order yang Dikerjakan </h3>
 
 <table align="center">
   <tr>
@@ -932,7 +929,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-<h1 align="center"><strong>💡"I hack with ❤️, and patch with 🍰."</strong></h1>
+<h3 align="center"><strong>💡"I hack with ❤️, and patch with 🍰."</strong></h3>
 
 <div align="center">
 
@@ -956,7 +953,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 <table align="center" style="width: 70%; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td colspan="2" style="padding: 15px; text-align: center;">
-      <h1 style="margin:0;">⚒️ Skill de la Brutal</h1>
+      <h3 style="margin:0;">⚒️ Skill de la Brutal</h3>
     </td>
   </tr>
   <tr>
@@ -1018,7 +1015,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-<h1 align="center">🚀 Skill Matrix 2024</h1>
+<h3 align="center"> Skill Matrix 2024</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,java,react,next,vue,nodejs,express,nestjs,django,flask,spring,aws,gcp,azure,docker,kubernetes,git,github,gitlab,linux,bash,mysql,postgres,mongodb,redis,grafana,prometheus&perline=15" width="90%" />
@@ -1064,30 +1061,30 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-<h1 align="center"> 🚀 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h1>
+<h3 align="center"> 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kongali1720&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" width="100%"/> </p>
 
 ---
 
-<h1 align="center"> 🚀 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h1>
+<h3 align="center"> 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h3>
 <p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/yourprofile"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
 
 </p>
 
 ---
-<h1 align="center">☕ DItunggu Traktiran Kopi ama Nasigorengnya ya Bro...</h1>
+<h3 align="center">☕ DItunggu Traktiran Kopi ama Nasigorengnya ya Bro...</h3>
 
 <div align="center">
 
-<h1 align="center"> 💡 Dukung aku agar tetap waras menulis script tengah malam...</h1>
+<h3 align="center"> 💡 Dukung aku agar tetap waras menulis script tengah malam...</h3>
 
 [☕ Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)
 
 
 ---
 
-<h1 align="center"> ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️</h1>
+<h3 align="center"> ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️</h3>
 
 | Item        | Keterangan |
 |:------------|:-----------|
@@ -1095,7 +1092,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 | 📡 Status   | Butuh Dukungan |
 | 🧠 Response | Buka Hati + Klik Link = Satu Senyum Baru |
 
-<h2 align="center"> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.</h2>
+<h3 align="center"> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.</h3>
 
 <p align="center">
   <a href="https://mydonation4ds.github.io/" target="_blank">
@@ -1112,7 +1109,7 @@ $ while true; do echo "🚀 $(date): Hacking GitHub... [SUCCESS]"; sleep 1; done
 
 ---
 
-💻 INITIATING HUMANITY MODE...
+### 💻 INITIATING HUMANITY MODE...
 
 🎯 Target Identified: Brave Children with Down Syndrome  
 📍 Current Status: Need Your Love and Support  
