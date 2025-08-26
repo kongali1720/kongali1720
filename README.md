@@ -26,7 +26,7 @@
     🔗 <strong>https://younext.cloud</strong>
   </a>
   
-  <a href="https://kongali1720.co" target="_blank" style="margin: 0 15px; display: inline-block;">
+  <a href="https://kongali1720.com" target="_blank" style="margin: 0 15px; display: inline-block;">
     🔗 <strong>https://kongali1720.com</strong>
   </a>
 </p>
@@ -1216,3 +1216,4 @@ _"Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi j
 🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
 
 ---
+
