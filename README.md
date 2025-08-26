@@ -22,10 +22,15 @@
 </p>
 
 <p align="center">
-  <a href="https://younext.cloud" target="_blank">
+  <a href="https://younext.cloud" target="_blank" style="margin: 0 15px; display: inline-block;">
     🔗 <strong>https://younext.cloud</strong>
   </a>
+  
+  <a href="https://kongali1720.co" target="_blank" style="margin: 0 15px; display: inline-block;">
+    🔗 <strong>https://kongali1720.com</strong>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/kong-wallet.png" width="200" alt="KONG WALLET Logo"/>
