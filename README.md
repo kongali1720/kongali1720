@@ -2,6 +2,7 @@
 <p align="center" style="color: #38bdf8; font-size: 18px;">
   To everyone who has followed, supported, and believed in this journey...
 </p>
+
 <p align="center" style="color: #cbd5e1; font-size: 16px;">
   Every follow is more than just a number — it's a symbol of trust and encouragement that keeps me motivated to keep building, coding, and sharing. 💻⚡  
 </p>
@@ -18,9 +19,10 @@
 
 <p align="center">
   <a href="https://younext.cloud" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=00FFF0&center=true&vCenter=true&width=800&lines=💠+YOUNEXT+💠;🌐+INNOVATION+IN+YOUR+HANDS+🌐" alt="YOUNEXT Glowing Animated Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=900&color=00FFF0&center=true&vCenter=true&width=2000&lines=💠+YOUNEXT+💠;🌐+INNOVATION+IN+YOUR+HANDS+🌐" alt="YOUNEXT Glowing Animated Text" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://younext.cloud" target="_blank" style="margin: 0 15px; display: inline-block;">
