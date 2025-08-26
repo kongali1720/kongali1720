@@ -5,6 +5,7 @@
 <p align="center" style="color: #cbd5e1; font-size: 16px;">
   Every follow is more than just a number — it's a symbol of trust and encouragement that keeps me motivated to keep building, coding, and sharing. 💻⚡  
 </p>
+
 <p align="center" style="color: #10b981; font-size: 16px;">
   💠 Let’s grow together, inspire each other, and never stop learning.  
   <br>
