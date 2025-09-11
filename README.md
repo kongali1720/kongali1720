@@ -1029,7 +1029,7 @@ Keep supporting so I stay motivated to create more educational works! 😄
 <div align="center" style="margin-top: 15px;">
   <a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank" style="text-decoration:none;">
     <img 
-      src="https://img.shields.io/badge/<b>Buy%20Me%20a%20Coffee</b>-☕-FF6600?style=for-the-badge&logo=paypal&logoColor=white" 
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF6600?style=for-the-badge&logo=paypal&logoColor=white" 
       alt="Buy Me a Coffee" 
       style="margin-top:10px;"
     />
@@ -1039,6 +1039,7 @@ Keep supporting so I stay motivated to create more educational works! 😄
     Support with ☕ so I can buy 🍜 and keep being 🧠!
   </p>
 </div>
+
 
 ---
 
