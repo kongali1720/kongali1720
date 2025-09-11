@@ -190,7 +190,7 @@
 ![Kongali1720](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FA0000&center=true&vCenter=true&width=1000&lines=🀄+KONGALI1720+-+TERMINAL+BUTCHER;🎧+SHARING+Knowledge+for+Everyone;🔥+NGODING+SEPERTI+MENAKUTKAN,+BUG+GAK+DIAMPUNI;🔁+Midnight+Injector+|+Root+Seeker+|+Firewall+Breaker;🪨+System+Cracked.+Protocol+404+Active...)
 
 
-<h3 align="center">🤖 About Me — The Code Alchemist</h3>
+<h3 align="center">🤖 About Me — The Coding Ranger</h3>
 
 <p align="center">
   👋 Hey there, future tech legends!
@@ -426,11 +426,9 @@
 
 </div>
 
----
 
 <p align="center"><strong>🚀 Let’s redefine the future of fintech – together with <span style="color:#A020F0;">KONGALI1720</span> 💜</strong></p>
 
----
 
 <h3 align="center">🏷️ Teknologi & Tools yang Aku Pakai</h3>
 
@@ -468,8 +466,6 @@
   <a href="https://linkedin.com/in/kongali1720"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   -->
 </p>
-
----
 
 <p align="center">
 <em>🎯 Terus belajar. Terus berbagi.<br>
@@ -542,16 +538,6 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 <p align="center">
   👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLScPIGdpC3Z5ZRlQyCgFWVCgiyxyHbpUWh28IotDQZwQuwjtLQ/viewform?usp=header"><strong>Klik di sini, isi survei</strong></a>
 </p>
-
----
-
-<h3 align="center">🧠 MANIFESTO - INTIP TIPIS TIPIS</h3>
-
-<blockquote align="center" style="font-size: 16px; line-height: 1.5; color: #444; max-width: 600px; margin: auto;">
-  Kalau lo liat lampu router lo kedip terus, santai…<br>
-  <strong>Gue lagi sapa lewat port terbuka.</strong><br><br>
-  💻 <strong>STAY ROOTED. STAY ANONYMOUS. STAY AWESOME.</strong>
-</blockquote>
 
 ---
 
@@ -827,8 +813,6 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 📌 <b>Project:</b> Automated Trading System <br/>
 📈 <b>Performance:</b> 280% returns
 
-<hr width="50%" />
-
 </div>
 
 ---
@@ -858,16 +842,6 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Metasploit-252525?style=for-the-badge" alt="Metasploit Badge" style="margin: 5px;">
-</div>
-
----
-
-<div align="center" style="display: inline-block; padding: 15px 30px; border: 3px solid #FF0000; border-radius: 15px; background-color: rgba(255,0,0,0.1);">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=450&lines=pip+install+%22Hello+World!%22+%7C+sudo+rm+-rf+%2Fdoubt"
-    alt="Typing Animation"
-    style="filter: drop-shadow(2px 2px 4px #8B0000);"
-  >
 </div>
 
 ---
@@ -928,20 +902,6 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
     <td></td>
   </tr>
 </table>
-
----
-
-
-<div align="center">
-
-<a href="https://github.com/kongali1720" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi" alt="Hacking Simulation" />
-</a>
-
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200" alt="Hacking GIF" style="margin-top: 15px;"/>
-
-</div>
 
 ---
 
@@ -1058,14 +1018,6 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 <h3 align="center"> 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 𝗚𝗔𝗟𝗟𝗘𝗥𝗬 </h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kongali1720&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=2&column=6&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" width="100%"/> </p>
-
----
-
-<h3 align="center"> 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗗𝗢𝗥𝗔 </h3>
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://instagram.com/yourprofile"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-</a>
-
-</p>
 
 ---
 
