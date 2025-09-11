@@ -1,4 +1,5 @@
 <h2 align="center">🙏 Thank You So Much!</h2>
+
 <p align="center" style="color: #38bdf8; font-size: 18px;">
   To everyone who has followed, supported, and believed in this journey...
 </p>
@@ -98,13 +99,6 @@
 ---
 
 <p align="center">
-  <!-- Tulisan Berjalan -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&width=600&center=true&vCenter=true&lines=Where+imagination+meets+implementation!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F733&background=000000&width=800&center=true&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh+(Indonesia);Hello+(English);こんにちは+(Konnichiwa)+from+Japan;Здравствуйте+(Zdravstvuyte)+from+Russia;안녕하세요+(Annyeonghaseyo)+from+South+Korea;你好+(Nǐ+Hǎo)+from+China;Hola+(Hola)+from+Spain;Bonjour+(Bonjour)+from+France;Guten+Tag+from+Germany;Salve+from+Italy" alt="Typing SVG" />
   </a>
@@ -126,7 +120,7 @@
     </tr>
     <tr>
       <td>📧 Email</td>
-      <td><a href="mailto:kongali1720@gmail.com">kongali1720@gmail.com</a></td>
+      <td><a href="mailto:admin@kongali1720.com">kongali1720@gmail.com</a></td>
     </tr>
     <tr>
       <td>🌐 Website</td>
@@ -142,7 +136,7 @@
     </tr>
     <tr>
       <td>💖 Down Syndrome</td>
-      <td><a href="https://kongali1720.github.io" target="_blank">🇮🇩View Live Website🇮🇩</a></td>
+      <td><a href="https://kongali1720.github.io" target="_blank"View Live Website</a></td>
     </tr>
   </tbody>
 </table>
@@ -408,34 +402,9 @@
 
 </div>
 
-
 ---
 
 <p align="center"><strong>🚀 Let’s redefine the future of fintech – together with <span style="color:#A020F0;">KONGALI1720</span> 💜</strong></p>
-
----
-
-<h3 align="center">🧩 Proyek Favorit</h3>
-
-<p align="center">
-🔹 <strong><a href="https://github.com/kongali1720/awesome-ai-indonesia">Awesome AI Indonesia</a></strong><br>
-Kumpulan alat, library & sumber AI lokal untuk pembelajaran.
-</p>
-
-<p align="center">
-🔹 <strong><a href="https://github.com/kongali1720/xBalance-master">xBalance</a></strong><br>
-Alat Python untuk cek saldo crypto otomatis (BTC, ETH).
-</p>
-
-<p align="center">
-🔹 <strong><a href="https://github.com/kongali1720/live_hacking.html">Live Hacking Page</a></strong><br>
-Halaman HTML bergaya hacking untuk demo edukatif.
-</p>
-
-<p align="center">
-🔹 <strong><a href="https://github.com/kongali1720/bny-bro-transfer.html">BNY Transfer Sim</a></strong><br>
-Simulasi antarmuka transfer bank gaya terminal.
-</p>
 
 ---
 
@@ -463,8 +432,6 @@ Simulasi antarmuka transfer bank gaya terminal.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-
 
 ---
 
@@ -533,7 +500,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
   </tr>
   <tr>
     <td>🛰️ <strong>Server</strong></td>
-    <td><code>KONGALI1720-SERVER-NUSANTARA</code></td>
+    <td><code>kongali1720.ddns.net</code></td>
   </tr>
 </table>
 
@@ -585,7 +552,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h3 align="center">🧠 MANIFESTO HACKER RINGAN</h3>
+<h3 align="center">🧠 MANIFESTO - INTIP TIPIS TIPIS</h3>
 
 <blockquote align="center">
   Kalau lo liat lampu router lo kedip terus, santai…<br>
@@ -997,20 +964,13 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-<h3 align="center"><strong>💡"I hack with ❤️, and patch with 🍰."</strong></h3>
 
 <div align="center">
-
-<strong style="font-size: 2em;">🚀 REAL-TIME CYBER DIVISION ACTIVITY</strong><br/>
-<em>(100% EPIC!)</em>
-
-<br/><br/>
 
 <a href="https://github.com/kongali1720" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/⚠️-LIVE_HACKING_SESSION-red?style=for-the-badge&logo=raspberry-pi" alt="Hacking Simulation" />
 </a>
 
-<hr style="width: 60%; margin: 30px auto;" />
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlteW9rdWY5cHZtdWI5ZXNnM3U0dHJsZWo3bnZ4dzB3MXc4ZTRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200" alt="Hacking GIF" style="margin-top: 15px;"/>
 
