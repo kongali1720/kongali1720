@@ -1021,31 +1021,26 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 
 ---
 
-
-<h3 align="center" style="color:#39ff14; font-size:1.5rem;">
-💡 ☕ Traktir Kopi & Nasi Padang / Nasi Gorengnya ya cuy! 😄
+<h3 align="center" style="color:#39ff14; font-size:1.5rem; line-height:1.4;">
+💡 ☕ Dukung terus biar semangat bikin karya edukatif lainnya…<br>
+Keep supporting so I stay motivated to create more educational works! 😄
 </h3>
 
-<div align="center">
+<div align="center" style="margin-top: 15px;">
+  <a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://img.shields.io/badge/<b>Buy%20Me%20a%20Coffee</b>-☕-FF6600?style=for-the-badge&logo=paypal&logoColor=white" 
+      alt="Buy Me a Coffee" 
+      style="margin-top:10px;"
+    />
+  </a>
 
-<p style="color:#ffffff; font-size:1.1rem;">
-Dukung terus biar semangat bikin karya edukatif lainnya...  
-Keep supporting so I stay motivated to create more educational works!
-</p>
-
-<a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank" style="text-decoration:none;">
-  <img 
-    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF6600?style=for-the-badge&logo=paypal&logoColor=white" 
-    alt="Buy Me a Coffee" 
-    style="margin-top:10px;"
-  />
-</a>
-
-<p style="color:#39ff14; font-size:1rem; margin-top:8px;">
-Support with ☕ so I can buy 🍜 and keep being 🧠!
-</p>
-
+  <p style="color:#39ff14; font-size:1rem; margin-top:8px; line-height:1.4;">
+    Support with ☕ so I can buy 🍜 and keep being 🧠!
+  </p>
 </div>
+
+---
 
 <h3 align="center" style="color:#ff69b4;">❤️ 💻 INITIATING HUMANITY MODE... for Down Syndrome ❤️</h3>
 
