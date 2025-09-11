@@ -1068,82 +1068,118 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 </p>
 
 ---
-<h3 align="center">☕ DItunggu Traktiran Kopi ama Nasigorengnya ya Bro...</h3>
+
+
+<h3 align="center" style="color:#39ff14; font-size:1.5rem;">
+💡 ☕ Traktir Kopi & Nasi Padang / Nasi Gorengnya ya cuy! 😄
+</h3>
 
 <div align="center">
 
-<h3 align="center"> 💡 Dukung aku agar tetap waras menulis script tengah malam...</h3>
-
-[☕ Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99)
-
-
----
-
-<h3 align="center"> ❤️❤❤️ INITIATING HUMANITY MODE for Down Syndrome ❤️❤❤️</h3>
-
-| Item        | Keterangan |
-|:------------|:-----------|
-| 🎯 Target   | Anak-anak Pejuang Down Syndrome |
-| 📡 Status   | Butuh Dukungan |
-| 🧠 Response | Buka Hati + Klik Link = Satu Senyum Baru |
-
-<h3 align="center"> Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.</h3>
-
-<p align="center">
-  <a href="https://mydonation4ds.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" alt="Support Now" />
-  </a>
+<p style="color:#ffffff; font-size:1.1rem;">
+Dukung terus biar semangat bikin karya edukatif lainnya...  
+Keep supporting so I stay motivated to create more educational works!
 </p>
 
----
+<a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF6600?style=for-the-badge&logo=paypal&logoColor=white" 
+    alt="Buy Me a Coffee" 
+    style="margin-top:10px;"
+  />
+</a>
 
-| Quotes | Penjelasan |
-|:-------|:-----------|
-| 🧡 "Karena jadi hacker hati bukan cuma soal kode... tapi juga soal peduli." |  |
-| 🧠 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" |  |
+<p style="color:#39ff14; font-size:1rem; margin-top:8px;">
+Support with ☕ so I can buy 🍜 and keep being 🧠!
+</p>
 
----
+</div>
 
-### 💻 INITIATING HUMANITY MODE...
+<h3 align="center" style="color:#ff69b4;">❤️ 💻 INITIATING HUMANITY MODE... for Down Syndrome ❤️</h3>
 
-🎯 Target Identified: Brave Children with Down Syndrome  
-📍 Current Status: Need Your Love and Support  
-💖 Response Protocol: Open Your Heart + Click the Link = One More Smile in the World
+<div align="center">
 
-🧬 They aren’t different — they’re simply born with a beautiful mission:  
-To remind us what unconditional love looks like.  
-To teach us patience, kindness, and resilience in its purest form.  
-To show that joy can shine through the smallest victories.
+<table style="margin: 0 auto; border-collapse: collapse; box-shadow: 0 4px 10px rgba(0,0,0,0.2); border-radius: 8px; overflow: hidden;">
+  <thead style="background-color:#ff69b4; color:white;">
+    <tr>
+      <th style="padding: 12px 25px; font-size: 18px;">Item</th>
+      <th style="padding: 12px 25px; font-size: 18px;">Keterangan / Description</th>
+    </tr>
+  </thead>
+  <tbody style="background-color:#1a1a1a; color:#39ff14;">
+    <tr>
+      <td style="padding: 12px 25px;">🎯 Target</td>
+      <td style="padding: 12px 25px;">Anak-anak Pejuang Down Syndrome / Kids with Down Syndrome</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 25px;">📡 Status</td>
+      <td style="padding: 12px 25px;">Butuh Dukungan / Needs Support</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 25px;">🧠 Response</td>
+      <td style="padding: 12px 25px;">Buka Hati + Klik Link = Satu Senyum Baru / Open Heart + Click Link = One New Smile</td>
+    </tr>
+  </tbody>
+</table>
 
-👣 Every tiny step they take is a huge leap of courage.  
-Each smile, each hug, each word — a miracle unfolding.
+<p align="center" style="margin-top:15px; color:white; font-size:1rem;">
+Mereka bukan berbeda — mereka dilahirkan untuk mengajarkan dunia tentang cinta yang murni dan kesabaran yang luar biasa.<br>
+They are not different — they were born to teach the world pure love and extraordinary patience.
+</p>
 
-🛡️ They are warriors in the truest sense.  
-Not with swords or shields, but with laughter, innocence, and unstoppable spirit.
-
-⚡ You can be part of their journey.  
-Support doesn’t always mean grand gestures — sometimes, it starts with a click, a share, a donation, or even a kind word.
-
-🧬 Together, we can create a world where every child feels seen, valued, and loved — just as they are.
-
-🫶 Be the reason a child smiles today.  
-Click the link. Spread the word. Stand beside them.
-
-<p align="center" style="font-size: 1.5rem;">
-  <a href="https://mydonation4ds.github.io/" target="_blank" style="display: inline-block;">
+<p align="center" style="margin-top: 15px;">
+  <a href="https://mydonation4ds.github.io/" target="_blank" style="display: inline-block; text-decoration:none;">
     <img 
-      src="https://img.shields.io/badge/SUPPORT--NOW-%23FF6600?style=for-the-badge&logo=heart&logoColor=white&labelColor=white&color=FF6600" 
+      src="https://img.shields.io/badge/SUPPORT--NOW-%23FF6600?style=for-the-badge&logo=heart&logoColor=white&labelColor=FF6600&color=FF4500&logoWidth=15" 
       alt="Support Now" 
-      style="width: 300px; height: auto;" 
+      style="height: 40px;"
     />
   </a>
 </p>
 
-_"Karena jadi IT Programing bukan cuma soal lelah scripting en ngoding... tapi juga soal peduli cuy." 🖤_
+---
+
+<section align="center" style="font-family: Arial, sans-serif;">
+
+<h2 style="margin-bottom: 15px; color: #0070f3;">💳 Dukungan Pembayaran</h2>
+
+<table align="center" style="margin: 0 auto; border-collapse: collapse; border-radius: 8px; overflow: hidden;">
+  <thead style="background-color: #0070f3; color: white;">
+    <tr>
+      <th style="padding: 10px 20px; font-size: 16px;">Visa</th>
+      <th style="padding: 10px 20px; font-size: 16px;">Mastercard</th>
+      <th style="padding: 10px 20px; font-size: 16px;">PayPal</th>
+    </tr>
+  </thead>
+  <tbody style="background-color: #f9f9f9;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Visa" width="90" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Mastercard" width="90" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="PayPal" width="90" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</section>
 
 ---
 
-🎧 "Ngoding boleh sambil senyum, asal jangan inject SQL sambil ngambek!" 😜
+<p align="center" style="margin-top: 15px;">
+  Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke teman-teman!<br>
+  Follow <a href="https://twitter.com/kongali1720" target="_blank">@kongali1720</a> untuk diskusi & update seru 🔥
+</p>
 
----
+<p align="center" style="margin-top: 10px;">
+  <a href="https://twitter.com/kongali1720" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kongali1720?style=social" alt="Twitter Follow" />
+  </a>
+</p>
+
+
 
