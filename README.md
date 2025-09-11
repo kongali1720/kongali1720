@@ -94,8 +94,6 @@
 
 </div>
 
-
-
 ---
 
 <p align="center">
@@ -124,19 +122,11 @@
     </tr>
     <tr>
       <td>🌐 Website</td>
-      <td><a href="https://kongali1720.github.io" target="_blank">kongali1720.github.io</a></td>
+      <td><a href="https://younext.cloud" target="_blank">kongali1720.github.io</a></td>
     </tr>
     <tr>
-      <td>⚡ Live Hacking</td>
-      <td><a href="https://kongali1720.github.io/live_hacking.html" target="_blank">⚔️ Hacking in Action! ⚔️</a></td>
-    </tr>
-    <tr>
-      <td>🌟 Awesome AI</td>
-      <td><a href="https://kongali1720.github.io/awesome-ai-indonesia.html" target="_blank">🔥Awesome AI Indonesia🔥</a></td>
-    </tr>
-    <tr>
-      <td>💖 Down Syndrome</td>
-      <td><a href="https://kongali1720.github.io" target="_blank"View Live Website</a></td>
+      <td>💖 Web Personal</td>
+      <td><a href="https://kongali1720.com" target="_blank">View Live Website</a></td>
     </tr>
   </tbody>
 </table>
