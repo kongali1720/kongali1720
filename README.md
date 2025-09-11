@@ -720,7 +720,7 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 </p>
 
 <p align="center">
-  <strong>🇮🇩 Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital! 🇮🇩</strong>
+  <strong>Bersama Garuda, Kita Bangkitkan Kembali Nusantara Digital!</strong>
 </p>
 
 <p align="center">
