@@ -96,6 +96,40 @@
 
 ---
 
+<h2 align="center" style="color:#39ff14;">📫 Let’s Connect together</h2>
+
+<p align="center">
+  <a href="https://github.com/kongali1720" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kongali1720-39ff14?style=for-the-badge&logo=github&logoColor=white" height="35">
+  </a>
+  <a href="mailto:admin@kongali1720.com">
+    <img src="https://img.shields.io/badge/Email-admin@kongali1720.com-DAF7A6?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  </a>
+  <a href="https://discord.gg/dXM88zFU" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-kongali1720_32854-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35">
+  </a>
+  <a href="https://www.instagram.com/kongali1720/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-kongali-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="35">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/Kongali1720" target="_blank">
+    <img src="https://img.shields.io/badge/X-@KongAli50422468-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35">
+  </a>
+  <a href="https://younext.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Web-Interactive-younext?style=for-the-badge&logo=web&logoColor=white" height="35">
+  </a>
+  <a href="https://kongali1720.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kongali1720-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" height="35">
+  </a>
+  <a href="https://wa.me/447440014278" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+44_7440014278-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F733&background=000000&width=800&center=true&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh+(Indonesia);Hello+(English);こんにちは+(Konnichiwa)+from+Japan;Здравствуйте+(Zdravstvuyte)+from+Russia;안녕하세요+(Annyeonghaseyo)+from+South+Korea;你好+(Nǐ+Hǎo)+from+China;Hola+(Hola)+from+Spain;Bonjour+(Bonjour)+from+France;Guten+Tag+from+Germany;Salve+from+Italy" alt="Typing SVG" />
@@ -442,8 +476,6 @@
 Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 </p>
 
-
-
 ---
 
 <h3 align="center">🔥 JADWAL TEMPUR VERSI GUE</h3>
@@ -473,57 +505,28 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 ---
 
-<h3 align="center">💾 IDENTITAS RAHASIA</h3>
-
-<table align="center">
-  <tr>
-    <td>🔧 <strong>Senjata Andalan</strong></td>
-    <td>Vim</td>
-  </tr>
-  <tr>
-    <td>☕ <strong>Bahan Bakar</strong></td>
-    <td>Kopi item tanpa diskusi</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Mode Hidup</strong></td>
-    <td><code>while(alive) { code(); coffee(); repeat(); }</code></td>
-  </tr>
-  <tr>
-    <td>🛰️ <strong>Server</strong></td>
-    <td><code>kongali1720.ddns.net</code></td>
-  </tr>
-</table>
-
-<p align="center">
-  📂 Repo pribadi: <code>/etc/obsession/kongali1720</code><br>
-  💔 Crush: Masih <code>404</code><br>
-  👊 Musuh: Tanda titik koma <code>;</code>
-</p>
-
----
-
 <h3 align="center">🌐 Bergabung & Kontak</h3>
 
 <table align="center">
   <tr>
-    <td>📍 <strong>PythonAnywhere</strong></td>
-    <td><a href="https://www.pythonanywhere.com/user/kongali1720/">pythonanywhere.com/user/kongali1720</a></td>
+    <td>📍 <strong>kongali1720</strong></td>
+    <td><a href="www.kongali1720.com">pythonanywhere.com/user/kongali1720</a></td>
   </tr>
   <tr>
     <td>📍 <strong>AWS Console</strong></td>
     <td><a href="https://us-east-1.console.aws.amazon.com/541170204401">us-east-1.console.aws.amazon.com</a></td>
   </tr>
   <tr>
-    <td>📲 <strong>Telegram</strong></td>
-    <td><a href="https://t.me/kongali1720">@kongali1720</a></td>
+    <td>📲 <strong>Instargam</strong></td>
+    <td><a href="[https://t.me/kongali1720](https://www.instagram.com/kongali1720/)">kongali1720</a></td>
   </tr>
   <tr>
     <td>📧 <strong>Email</strong></td>
-    <td>kongali1720@gmail.com</td>
+    <td>admin@kongali1720.com</td>
   </tr>
   <tr>
     <td>🛰️ <strong>Server</strong></td>
-    <td><code>KONGALI1720-SERVER-NUSANTARA</code></td>
+    <td><code>kongali1720.ddns.net</code></td>
   </tr>
 </table>
 
@@ -544,7 +547,7 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
 
 <h3 align="center">🧠 MANIFESTO - INTIP TIPIS TIPIS</h3>
 
-<blockquote align="center">
+<blockquote align="center" style="font-size: 16px; line-height: 1.5; color: #444; max-width: 600px; margin: auto;">
   Kalau lo liat lampu router lo kedip terus, santai…<br>
   <strong>Gue lagi sapa lewat port terbuka.</strong><br><br>
   💻 <strong>STAY ROOTED. STAY ANONYMOUS. STAY AWESOME.</strong>
@@ -564,13 +567,6 @@ Bukan hacker kaleng-kaleng — aku penjelajah sistem sejati. 🔥</em>
   <strong>KONGALI1720 - WE LOVE INDONESIA!</strong>
   <img src="https://flagcdn.com/w20/id.png" width="24" />
 </h3>
-
-<p align="center">
-  <!-- Telegram Badge -->
-  <a href="https://t.me/kongali1720">
-    <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram" alt="Join Telegram" />
-  </a>
-</p>
 
 ---
 
@@ -728,25 +724,6 @@ Kalau kamu lihat lampu router berkedip aneh-aneh, santai aja, aku cuma nyapa kok
 </table>
 
 </div>
-
----
-
-<h3 align="center">📬 Let's Connect</h3>
-
-<p align="center">
-  <a href="mailto:kongali1720@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kongali1720%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kongali1720/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://tryhackme.com/p/kongali1720">
-    <img src="https://img.shields.io/badge/TryHackMe-Elite%20User-red?style=for-the-badge&logo=tryhackme" />
-  </a>
-  <a href="https://kongali1720.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
