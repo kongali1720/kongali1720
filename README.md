@@ -24,6 +24,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/TguP31-1gnQ" target="_blank">
+    <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/DS.png" 
+         alt="Anak Ceria Thumbnail 1" 
+         width="400">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/TguP31-1gnQ" target="_blank">
+    <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/DS01.png" 
+         alt="Anak Ceria Thumbnail 2" 
+         width="400">
+  </a>
+</p>
+
+
 
 <p align="center">
   <a href="https://younext.cloud" target="_blank" style="margin: 0 15px; display: inline-block;">
