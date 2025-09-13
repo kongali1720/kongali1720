@@ -27,11 +27,15 @@
 
 <p align="center">
   <a href="https://younext.cloud" target="_blank" style="margin: 0 15px; display: inline-block;">
-    🔗 <strong>https://younext.cloud</strong>
+    🔗 <strong>younext.cloud</strong>
   </a>
-  
+  &nbsp;|&nbsp;
   <a href="https://kongali1720.com" target="_blank" style="margin: 0 15px; display: inline-block;">
-    🔗 <strong>https://kongali1720.com</strong>
+    🔗 <strong>kongali1720.com</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://kongali1720.github.io/" target="_blank" style="margin: 0 15px; display: inline-block;">
+    🔗 <strong>Anak Ceria – Down Syndrome</strong>
   </a>
 </p>
 
