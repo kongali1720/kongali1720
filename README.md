@@ -29,7 +29,7 @@
   <a href="https://youtu.be/TguP31-1gnQ" target="_blank">
     <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/DS.png" 
          alt="Anak Ceria Thumbnail 1" 
-         width="350">
+         width="300">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://kongali1720.github.io/" target="_blank">
