@@ -24,34 +24,38 @@
   </a>
 </p>
 
+<!-- Bagian Gambar -->
 <p align="center">
   <a href="https://youtu.be/TguP31-1gnQ" target="_blank">
     <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/DS.png" 
          alt="Anak Ceria Thumbnail 1" 
-         width="200">
+         width="350">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://kongali1720.github.io/" target="_blank">
     <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/DS01.png" 
-         alt="Anak Ceria Thumbnail 2" 
+         alt="Anak Ceria by Kongali1720" 
          width="200">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zlclothindustries.com" target="_blank">
+    <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/ZL-EMAS.png" 
+         alt="ZL Cloth Industries Logo" 
+         width="200"/>
+  </a>
 </p>
 
-
+<!-- Bagian Link -->
 <p align="center">
-  <a href="https://younext.cloud" target="_blank" style="margin: 0 15px; display: inline-block;">
-    🔗 <strong>younext.cloud</strong>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://kongali1720.com" target="_blank" style="margin: 0 15px; display: inline-block;">
-    🔗 <strong>kongali1720.com</strong>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://kongali1720.github.io/" target="_blank" style="margin: 0 15px; display: inline-block;">
-    🔗 <strong>Anak Ceria – Down Syndrome</strong>
-  </a>
+  🔗 <a href="https://younext.cloud" target="_blank"><strong>younext.cloud</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://kongali1720.com" target="_blank"><strong>kongali1720.com</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://kongali1720.github.io/" target="_blank"><strong>Anak Ceria – Down Syndrome</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://zlclothindustries.com" target="_blank"><strong>zlclothindustries.com</strong></a>
 </p>
+
 
 
 <p align="center">
