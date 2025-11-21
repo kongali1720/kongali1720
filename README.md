@@ -45,6 +45,64 @@
   </a>
 </p>
 
+<!-- KONGALI COIN – PREMIUM LINK SECTION -->
+<h2 align="center">🌐 Official KongaliCoin Network</h2>
+<p align="center">
+  🚀 Powering Web3 • Built on Ethereum • Secure & Transparent
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://kongalicoin.id" target="_blank">
+    <img src="https://img.shields.io/badge/KONGALICOIN.ID-OFFICIAL-00e5ff?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=000000">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kongalicoin.com" target="_blank">
+    <img src="https://img.shields.io/badge/KONGALICOIN.COM-PRIMARY-ffc107?style=for-the-badge&logo=bitcoin&logoColor=black&labelColor=000000">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://younext.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Cloud%20Service-YOUNEXT-2ecc71?style=flat-square&logo=cloudflare&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kongali1720.com" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-KONG%20ALI-3498db?style=flat-square&logo=github&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://zlclothindustries.com" target="_blank">
+    <img src="https://img.shields.io/badge/Business-ZLCLOTH-ff0066?style=flat-square&logo=shopify&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://kongalicoin.id" target="_blank">
+    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg" width="200" style="border-radius:50%; box-shadow:0 0 25px #00e5ff;" alt="KONGALI COIN">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kongalicoin.com" target="_blank">
+    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg" width="200" style="border-radius:50%; box-shadow:0 0 25px gold;" alt="KONGALI COIN">
+  </a>
+</p>
+
+<p align="center">
+  ⚡ <b>Verified Domains:</b> kongalicoin.id | kongalicoin.com  
+  <br>
+  🔐 <b>Network:</b> Ethereum Mainnet  
+  <br>
+  ⭐ <b>Ticker:</b> KAC / KONGALICOIN  
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+KongaliCoin+Network;Secure+.%20Fast+.%20Decentralized;Built+for+Future+Global+Use&font=Orbitron&center=true&width=600&height=45&color=00F5FF&vCenter=true&size=22">
+</p>
+
 <!-- Bagian Link -->
 <p align="center">
   🔗 <a href="https://younext.cloud" target="_blank"><strong>younext.cloud</strong></a>
@@ -55,7 +113,6 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🔗 <a href="https://zlclothindustries.com" target="_blank"><strong>zlclothindustries.com</strong></a>
 </p>
-
 
 
 <p align="center">
