@@ -32,7 +32,7 @@ yang membangun sistem dengan filosofi hacker namun presisi seorang engineer:
 - Threat Modeling (STRIDE, MITRE ATT&CK, Kill Chain)  
 - Attack Surface Mapping  
 - Incident Analysis Mindset  
-- Ethical Pentesting (legal, web/API)  
+- Ethical Pentesting  
 
 ## 💻 Secure Development
 - Secure Coding  
@@ -49,7 +49,6 @@ yang membangun sistem dengan filosofi hacker namun presisi seorang engineer:
 ---
 
 # ⚙️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Power%20User-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Bash-Automation-1f1f1f?style=for-the-badge&logo=gnubash" />
@@ -77,12 +76,6 @@ yang membangun sistem dengan filosofi hacker namun presisi seorang engineer:
 
 # 🌐 **Official KongaliCoin Network**
 🚀 *Powering Web3 • Built on Ethereum • Secure • Transparent*
-
-<!-- KONGALI COIN – PREMIUM LINK SECTION -->
-<h2 align="center">🌐 Official KongaliCoin Network</h2>
-<p align="center">
-  🚀 Powering Web3 • Built on Ethereum • Secure & Transparent
-</p>
 
 <br>
 
@@ -112,49 +105,36 @@ yang membangun sistem dengan filosofi hacker namun presisi seorang engineer:
 
 <br>
 
-<p align="center">
-  <a href="https://kongalicoin.id" target="_blank">
-    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg" width="200" style="border-radius:50%; box-shadow:0 0 25px #00e5ff;" alt="KONGALI COIN">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kongalicoin.com" target="_blank">
-    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg" width="200" style="border-radius:50%; box-shadow:0 0 25px gold;" alt="KONGALI COIN">
-  </a>
-</p>
+<!-- FIXED & CENTERED COIN IMAGES -->
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:wrap; margin-top:20px;">
 
-<p align="center">
-  ⚡ <b>Verified Domains:</b> kongalicoin.id | kongalicoin.com  
-  <br>
-  🔐 <b>Network:</b> Ethereum Mainnet  
-  <br>
-  ⭐ <b>Ticker:</b> KAC / KONGALICOIN  
-</p>
+  <a href="https://kongalicoin.id" target="_blank">
+    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg"
+         width="200"
+         style="border-radius:50%; box-shadow:0 0 25px #00e5ff; display:block;"
+         alt="KONGALI COIN">
+  </a>
+
+  <a href="https://kongalicoin.com" target="_blank">
+    <img src="https://github.com/kongali1720/kongalicoin/blob/main/kongalicoin.jpeg"
+         width="200"
+         style="border-radius:50%; box-shadow:0 0 25px gold; display:block;"
+         alt="KONGALI COIN">
+  </a>
+
+</div>
 
 <br>
 
-<!-- 🔐 NETWORK INFO -->
 <p align="center">
   ⚡ <b>Verified Domains:</b> kongalicoin.id | kongalicoin.com<br>
-  🔐 <b>Network:</b> Ethereum Mainnet<br>
-  ⭐ <b>Ticker:</b> KAC / KONGALICOIN
+  🔐 <b>Network:</b> Ethereum Mainnet (ERC-20)<br>
+  ⭐ <b>Ticker:</b> KAC — KongaliCoin
 </p>
-
-<br>
-
-
-### ⚡ **Verified Domains**
-- kongalicoin.id  
-- kongalicoin.com  
-
-### 🔐 **Network**
-- **Ethereum Mainnet (ERC-20)**
-
-### ⭐ **Token Ticker**
-- **KAC — KongaliCoin**
 
 ---
 
-# 🤝 Contributions
+# 🤝 Contributions  
 ✔ Open for documentation improvements  
 ✔ Visual diagram collaboration  
 ✔ Ethical discussions  
@@ -170,7 +150,7 @@ This repository follows the **MIT License**.
 ---
 
 # 📣 (*affiliate) HubSpot Project Management  
-Kelola workflow, dokumentasi riset, dan catatan cybersecurity dengan efisien:  
+Kelola workflow & dokumentasi cybersecurity dengan efisien:  
 👉 https://go.try-hubspot.com/c/6231120/1197644/12893  
 
 ---
@@ -185,34 +165,29 @@ Kelola workflow, dokumentasi riset, dan catatan cybersecurity dengan efisien:
   <b>⚡ KONGALI1720 — Designed by Defense, Driven by Precision ⚡</b>
 </p>
 
-
 ---
-
 
 ### **👤 Kong Ali — (@kongali1720)**  
 Founder & Developer of **KongaliCoin**  
 > _"Building the future of digital finance with clarity, transparency, and innovation."_  
 
-Jika kamu menyukai proyek ini, jangan lupa beri ⭐ di repository untuk mendukung perkembangan selanjutnya!
-
 ---
 
 <div align="center">
 
-## ✅ Gaspol Coding Squad Indonesia! 🚀💻
-> Belajar sambil praktek langsung.<br>
-> Run it, understand it.<br>
-> Mini project Python yang gak bikin ngantuk!  
+### ✅ Gaspol Coding Squad Indonesia! 🚀💻  
+Belajar sambil praktek langsung.  
+Run it, understand it.  
+Mini project Python yang gak bikin ngantuk!  
 </div>
 
 ---
 
 <div align="center">
 
-## ☕ Traktir Kopi & Nasi Padang  
-
+### ☕ Traktir Kopi & Nasi Padang  
 <strong>Dukung terus biar semangat bikin karya edukatif lainnya...</strong><br>
-💡 ☕ <a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank">Buy Me a Coffee via PayPal</a>
+☕ <a href="https://www.paypal.com/paypalme/bungtempong99" target="_blank">Buy Me a Coffee via PayPal</a>
 
 </div>
 
@@ -220,8 +195,7 @@ Jika kamu menyukai proyek ini, jangan lupa beri ⭐ di repository untuk mendukun
 
 <div align="center">
 
-## ❤️ INITIATING HUMANITY MODE... for Down Syndrome
-
+### ❤️ INITIATING HUMANITY MODE… for Down Syndrome  
 <table align="center">
   <tr><th>Target</th><td>Anak-anak Pejuang Down Syndrome</td></tr>
   <tr><th>Status</th><td>Butuh Dukungan</td></tr>
@@ -231,7 +205,7 @@ Jika kamu menyukai proyek ini, jangan lupa beri ⭐ di repository untuk mendukun
 <p><em>Mereka bukan berbeda. Mereka hadir untuk mengajarkan kita arti cinta sejati dan kesabaran.</em></p>
 
 <a href="https://mydonation4ds.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/SUPPORT--NOW-%23FF6600?style=for-the-badge&logo=heart&logoColor=white" alt="Support Now">
+  <img src="https://img.shields.io/badge/SUPPORT--NOW-%23FF6600?style=for-the-badge&logo=heart&logoColor=white">
 </a>
 
 </div>
@@ -240,28 +214,18 @@ Jika kamu menyukai proyek ini, jangan lupa beri ⭐ di repository untuk mendukun
 
 <div align="center">
 
-## 💳 Dukungan Pembayaran DONASI
-
+### 💳 Dukungan Pembayaran DONASI
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Visa" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" width="80">
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Mastercard" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" width="80">
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="PayPal" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" width="80">
 </p>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-Kalau project ini bermanfaat, kasih ⭐ ya dan share ke temen-temenmu!<br>
-Follow <a href="https://twitter.com/kongali1720" target="_blank">@kongali1720</a> buat update seru lainnya 🔥  
-
-<a href="https://twitter.com/kongali1720" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/kongali1720?style=social" alt="Twitter Follow Badge">
-</a>
+Kalau project ini bermanfaat, kasih ⭐ ya dan share!  
+Follow <a href="https://twitter.com/kongali1720">@kongali1720</a> untuk update 🔥
 
 </div>
-
