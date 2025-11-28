@@ -214,18 +214,20 @@ Mini project Python yang gak bikin ngantuk!
 
 <div align="center">
 
-### 💳 Dukungan Pembayaran DONASI
+### 💳 Dukungan Pembayaran / DONASI
+
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" width="80" alt="Visa Logo">
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" width="80" alt="Mastercard Logo">
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" width="80" alt="PayPal Logo">
 </p>
 
 <br>
 
-Kalau project ini bermanfaat, kasih ⭐ ya dan share!  
-Follow <a href="https://twitter.com/kongali1720">@kongali1720</a> untuk update 🔥
+⭐ Kalau project ini bermanfaat, kasih ⭐ dan share ke teman-temanmu!<br>
+Follow <a href="https://x.com/KongAli50422468" target="_blank">@kongali1720</a> untuk update seru 🔥
 
 </div>
+
