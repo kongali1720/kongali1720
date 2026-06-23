@@ -647,7 +647,7 @@ Jika project ini membantu kamu,
 support kecil sangat berarti.
 
 
-<a href="https://www.buymeacoffee.com/">
+<a href="https://www.paypal.com/paypalme/bungtempong99/">
 
 <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-support-yellow?style=for-the-badge&logo=buymeacoffee">
 
