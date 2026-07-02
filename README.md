@@ -1,10 +1,12 @@
-<!-- ========================================================= -->
-<!-- 🛡️ KONGALI1720 DIGITAL FORTRESS - PART 1                  -->
-<!-- ========================================================= -->
+
+<p align="center">
+<img src="https://github.com/kongali1720/KongWallet-Payment-Gateway-API/blob/main/kop_surat.jpg" width="100%">
+</p>
+
+<p align="center">
+
 
 <div align="center">
-
-<h1>🛡️ KONG ALI</h1>
 
 <h3>
 Cyber Defense Architect • Security Engineer • Web3 Builder
@@ -33,48 +35,33 @@ Cyber Defense Architect • Security Engineer • Web3 Builder
 
 <div align="center">
 
-
 # 👋 About Me
 
+> ### **"Secure by Design. Built for Scale. Trusted by Architecture."**
 
-> **"Think like an attacker. Build like a guardian. Execute like an architect."**
+### Cybersecurity Engineer • Backend Architect • Infrastructure Builder
 
-
-Cyber Defense Architect yang menggabungkan:
-
-🛡 Security Architecture  
-🔐 Ethical Hacking  
-☁ Cloud Defense  
-⛓ Blockchain Security  
-🚀 Open Source Development  
-
-
-Membangun sistem digital:
-
-<b>
-Secure • Resilient • Adaptive
-</b>
-
-
-</div>
-
+Designing secure, scalable, and resilient digital platforms with a strong focus on modern backend engineering, payment infrastructure, cloud-native architecture, and offensive security.
 
 ---
 
-<div align="center">
+### 🔥 Core Expertise
 
+🛡 Security Architecture & Threat Modeling
 
-# 🧠 Security Philosophy
+🔐 Ethical Hacking & Penetration Testing
 
+⚙ Backend API & Payment Gateway Development
 
-```text
-┌──────────────────────────────────────────────┐
-│ Think like attacker  → Understand threats    │
-│ Build like guardian  → Create defense        │
-│ Execute architect    → Scale securely        │
-└──────────────────────────────────────────────┘
+☁ Cloud Infrastructure & DevSecOps
 
-```
+⛓ Blockchain Security & Crypto Integration
+
+📡 High Availability Systems
+
+🚀 Open Source Engineering
+
+---
 
 <div align="center">
 🧬 Security Architecture Map
