@@ -15,37 +15,36 @@ Cyber Defense Architect • Security Engineer • Web3 Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=650&lines=%5BBOOT%5D+Initializing+System;%5BSECURE%5D+Defense+Online;%5BWEB3%5D+Infrastructure+Active;%5BREADY%5D+Building+Future">
 
-
 <br>
 
-
 <img src="https://komarev.com/ghpvc/?username=kongali1720&style=for-the-badge">
-
 <img src="https://img.shields.io/badge/CYBER-DEFENSE-111827?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/WEB3-BUILDER-3C3C3D?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/OPEN-SOURCE-15803d?style=for-the-badge">
 
-
 </div>
-
 
 ---
 
 <div align="center">
 
-# 👋 About Me
-
-> ### *"Secure by Design. Built for Scale. Trusted by Architecture."*
-
-### Cybersecurity Engineer • Backend Architect • Infrastructure Builder
+## Cybersecurity Engineer • Backend Architect • Infrastructure Builder
 
 Designing secure, scalable, and resilient digital platforms with a strong focus on modern backend engineering, payment infrastructure, cloud-native architecture, and offensive security.
 
+</div>
+
 ---
 
-### 🔥 Core Competencies
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00ff88?style=for-the-badge)
+![Classification](https://img.shields.io/badge/CLASSIFICATION-RESEARCH_NODE-00bfff?style=for-the-badge)
+![Mode](https://img.shields.io/badge/MODE-AUTONOMOUS_SOC_v4-red?style=for-the-badge)
+
+---
+
+## 🔥 Core Competencies
 
 | Domain | Specialization |
 |--------|----------------|
@@ -70,25 +69,9 @@ Designing secure, scalable, and resilient digital platforms with a strong focus 
 
 ---
 
-### 🛠️ Technical Arsenal
+## 📊 Professional Impact
 
-#### Security Stack
-`Python` `Bash` `PowerShell` `YARA` `Metasploit` `Burp Suite` `Nmap` `Wireshark` `Snort` `Suricata`
-
-#### Backend & Infrastructure
-`Go` `Rust` `Node.js` `Java` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `Terraform` `Ansible`
-
-#### Cloud Platforms
-`AWS` `GCP` `Azure` `DigitalOcean` `Linode` `Cloudflare`
-
-#### Blockchain & Web3
-`Solidity` `Rust` `Ethereum` `Solana` `Hardhat` `Foundry` `Web3.js` `Ethers.js`
-
----
-
-### 📊 Professional Impact
-
-| Metric | Achievement |
+| Metric | Achievement 
 |--------|-------------|
 | 🔒 **Systems Secured** | 50+ Production Environments |
 | 💳 **Payment Volume** | $100M+ Annual Transaction Value |
@@ -112,7 +95,7 @@ Designing secure, scalable, and resilient digital platforms with a strong focus 
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kongali1720)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kongali1720)
@@ -139,7 +122,7 @@ I'm always open to collaborating on projects that advance cybersecurity, AI, and
 
 ---
 
-### 🏅 Certifications & Recognition
+## 🏅 Certifications & Recognition
 
 | Certification | Issuer |
 |---------------|--------|
@@ -161,9 +144,126 @@ I'm always open to collaborating on projects that advance cybersecurity, AI, and
 
 </div>
 
+<div align="center">
+
+## ⚙️ 1. CYBER INTELLIGENCE ARCHITECTURE
+
+```mermaid
+flowchart TD
+
+A[Cyber Environment]:::core
+
+A --> B[Data Ingestion Layer]:::blue
+A --> C[Threat Intelligence Layer]:::purple
+A --> D[Behavioral Analytics Engine]:::orange
+A --> E[AI Decision Core]:::red
+A --> F[Autonomous Response System]:::green
+
+B --> C --> D --> E --> F
+
+F --> G[Containment Actions]:::red2
+F --> H[Self-Healing Systems]:::green2
+F --> I[Adaptive Policy Update]:::blue2
+
+G --> A
+H --> A
+I --> A
+
+
+classDef core fill:#0f172a,stroke:#22c55e,color:#ffffff,stroke-width:2px
+
+classDef blue fill:#1e3a8a,stroke:#60a5fa,color:#ffffff
+classDef purple fill:#4c1d95,stroke:#c084fc,color:#ffffff
+classDef orange fill:#7c2d12,stroke:#fb923c,color:#ffffff
+classDef red fill:#7f1d1d,stroke:#f87171,color:#ffffff
+classDef green fill:#14532d,stroke:#4ade80,color:#ffffff
+
+classDef red2 fill:#450a0a,stroke:#ef4444,color:#ffffff
+classDef green2 fill:#052e16,stroke:#22c55e,color:#ffffff
+classDef blue2 fill:#0c4a6e,stroke:#38bdf8,color:#ffffff
+```
+
+</div>
+
+---
 
 <div align="center">
-🧬 Security Architecture Map
+
+## 2. ADVERSARIAL ATTACK MODEL
+
+```mermaid
+flowchart LR
+
+A[Attacker AI]:::red --> B[Reconnaissance]:::orange
+B --> C[Exploit Generation]:::red2
+C --> D[Autonomous Intrusion]:::purple
+D --> E[Persistence Layer]:::blue
+E --> F[Data Control / Manipulation]:::green
+
+F --> A
+
+
+classDef red fill:#7f1d1d,stroke:#ef4444,color:#fff
+classDef red2 fill:#450a0a,stroke:#f87171,color:#fff
+classDef orange fill:#7c2d12,stroke:#fb923c,color:#fff
+classDef purple fill:#4c1d95,stroke:#c084fc,color:#fff
+classDef blue fill:#1e3a8a,stroke:#60a5fa,color:#fff
+classDef green fill:#14532d,stroke:#4ade80,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 3. WEAK LINK PROPAGATION MODEL (IMPACT FLOW)
+
+```mermaid
+flowchart TD
+
+A[Complex System]:::blue --> B[Hidden Dependency]:::purple
+B --> C[Weak Link Emergence]:::orange
+C --> D[Single Exploit]:::red
+D --> E[Cascading Failure]:::red2
+E --> F[System Collapse]:::black
+
+classDef blue fill:#1e3a8a,stroke:#60a5fa,color:#fff
+classDef purple fill:#4c1d95,stroke:#c084fc,color:#fff
+classDef orange fill:#7c2d12,stroke:#fb923c,color:#fff
+classDef red fill:#7f1d1d,stroke:#ef4444,color:#fff
+classDef red2 fill:#450a0a,stroke:#f87171,color:#fff
+classDef black fill:#000000,stroke:#22c55e,color:#fff
+```
+
+<div align="center">
+
+## 4. CYBER SINGULARITY STATE MACHINE
+
+```mermaid
+stateDiagram-v2
+
+[*] --> Monitoring:::green
+Monitoring --> Detection:::blue
+Detection --> Analysis:::purple
+Analysis --> Response:::orange
+Response --> Adaptation:::red
+Adaptation --> Monitoring:::green
+
+classDef green fill:#14532d,color:#fff
+classDef blue fill:#1e3a8a,color:#fff
+classDef purple fill:#4c1d95,color:#fff
+classDef orange fill:#7c2d12,color:#fff
+classDef red fill:#7f1d1d,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+##  Security Architecture Map
 
 ```mermaid
 graph TB
@@ -196,9 +296,11 @@ style C fill:#0f172a,color:#fff
 style D fill:#0f172a,color:#fff
 ```
 
-<div align="center">
-     
-🚀 Career Journey
+</div>
+
+---
+
+##  Career Journey
 
 ```mermaid
 timeline
@@ -236,7 +338,7 @@ title Career Timeline
 
 <div align="center">
      
-⏰ Weekly Security Allocation
+##  Weekly Security Allocation
 
 ```mermaid
 pie title Weekly Focus
@@ -253,9 +355,7 @@ pie title Weekly Focus
 
 <div align="center">
 
-
-# 🧠 Cyber Defense Intelligence Map
-
+## Cyber Defense Intelligence Map
 
 ```mermaid
 mindmap
@@ -298,14 +398,11 @@ mindmap
 
 </div>
 
-
 ---
 
 <div align="center">
 
-
-# 💻 Daily Security Operation
-
+## Daily Security Operation
 
 ```mermaid
 journey
@@ -329,19 +426,16 @@ section Evening
 Security Research: 5: Me
 Community Support: 4: Me
 CTF Training: 4: Me
-
 ```
 
 </div>
-
 
 ---
 
 <div align="center">
 
 
-# 🚀 Security Workflow
-
+## Security Workflow
 
 ```mermaid
 flowchart TD
@@ -377,19 +471,15 @@ J --> K[Improved Security Posture]
 style A fill:#1e293b,color:#fff
 style E fill:#334155,color:#fff
 style K fill:#0f172a,color:#fff
-
 ```
 
 </div>
-
 
 ---
 
 <div align="center">
 
-
-# 📈 Weekly Security Activity
-
+## Weekly Security Activity
 
 ```mermaid
 xychart-beta
@@ -404,7 +494,6 @@ y-axis "Hours" 0 --> 8
 bar [6,7,5,8,6,3,2]
 
 line [5,6,4,7,5,2,1]
-
 ```
 
 </div>
@@ -440,8 +529,7 @@ title Career Timeline
 <div align="center">
 
 
-# 🛡️ Security Domain Map
-
+## 🛡️ Security Domain Map
 
 ```mermaid
 graph LR
@@ -455,7 +543,6 @@ G[Incident Response] --> H[Security Operation]
 
 end
 
-
 subgraph Development
 
 I[Secure SDLC] --> J[Secure Coding]
@@ -465,7 +552,6 @@ O[Penetration Testing] --> P[Vulnerability Fix]
 
 end
 
-
 subgraph Research
 
 Q[OSINT] --> R[Threat Intelligence]
@@ -474,22 +560,19 @@ U[Security Analytics] --> V[Data Driven Defense]
 
 end
 
-
 style Cyber_Defense fill:#1e293b,color:#fff
 style Development fill:#0f172a,color:#fff
 style Research fill:#334155,color:#fff
-
 ```
 
 </div>
-
 
 ---
 
 <div align="center">
 
 
-# 📊 Tech Stack Proficiency
+## 📊 Tech Stack Proficiency
 
 
 ```mermaid
@@ -523,17 +606,15 @@ AWS: [0.6,0.7]
 JavaScript: [0.5,0.6]
 
 Go: [0.4,0.5]
-
 ```
 
 </div>
-
 
 ---
 
 <div align="center">
 
-## ⚡ Technology Stack
+## Technology Stack
 
 | Layer | Technologies |
 |--------|--------------|
@@ -543,6 +624,7 @@ Go: [0.4,0.5]
 | 🛡️ Security | Wireshark, Nmap, Burp Suite, YARA |
 | 🤖 AI & Automation | Groq, Gemini, OpenAI, n8n |
 | 🔐 DevSecOps | GitHub Actions, Git, CI/CD |
+
 ---
 
 ## 🌐 Project Ecosystem
