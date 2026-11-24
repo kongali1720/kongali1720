@@ -2,6 +2,10 @@
 <img src="https://raw.githubusercontent.com/kongali1720/KongWallet-Payment-Gateway-API/main/kop_surat.jpg" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kongali1720/kongali1720/main/kongali1720-github-profile-banner.png" width="100%" alt="KONGALI1720 Cybersecurity and Engineering Banner">
+</p>
+
 <div align="center">
 
 # KONGALI1720
